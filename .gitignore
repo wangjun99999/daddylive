@@ -4,3 +4,9 @@
 
 # Python environment
 .venv/
+
+# Repository specifics
+channels-scraper.py
+daddylive-channels-data*.json
+firefox-profile/
+testing/

@@ -1,7 +1,7 @@
 import sys, importlib, threading, base64
 from importlib.abc import MetaPathFinder
 
-_HEADER = "https://lefttoplay.xyz"
+_HEADER = "https://forcedtoplay.xyz"
 
 _ORIGIN = _HEADER
 _REFERER = (_HEADER + "/")

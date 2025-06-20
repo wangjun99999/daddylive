@@ -2,7 +2,7 @@ name: channels-epg-grabber
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -30,5 +30,5 @@ jobs:
           git config --global user.name "actions-user"
           git config --global user.email "actions@github.com"
           git add epgs/daddylive-channels-epg.xml epgs/daddylive-channels-epg.xml.gz
-          git diff --staged --quiet || git commit -m "Update channels epg"
+          git diff --staged --quiet || git commit -m "refactor: update epg"
           git push --force
