@@ -2824,7 +2824,7 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04NT
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04NjIvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04NjgvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 group-title="UNITED KINGDOM" tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-cinema-comedy-uk.png",Sky Cinema Comedy UK
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
