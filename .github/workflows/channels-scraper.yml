@@ -20,10 +20,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: |
-          pip install playwright
-          playwright install firefox
-          unzip firefox-profile.zip
+        run: pip install httpx
 
       - name: Run Python Script
         run: |
