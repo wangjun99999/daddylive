@@ -3172,12 +3172,6 @@
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sport-tennis-de.png",
         "stream_url": "https://windnew.newkso.ru/wind/premium884/mono.m3u8"
     },
-    "Sky Sports Tennis UK": {
-        "group_title": "UNITED KINGDOM",
-        "tvg_id": "SkySp.Tennis.HD.uk",
-        "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-tennis-uk.png",
-        "stream_url": "https://windnew.newkso.ru/wind/premium46/mono.m3u8"
-    },
     "Sky UNO Italy": {
         "group_title": "ITALY",
         "tvg_id": "Sky.Sport.Uno.it",
@@ -4240,12 +4234,6 @@
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/bein-sports-3.png",
         "stream_url": "https://ddy6new.newkso.ru/ddy6/premium493/mono.m3u8"
     },
-    "beIN SPORTS XTRA 1": {
-        "group_title": "OTHERS",
-        "tvg_id": "beIN_SPORTS_XTRA1_Digital_Mono_EN.bein",
-        "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/bein-sports-xtra.png",
-        "stream_url": "https://ddy6new.newkso.ru/ddy6/premium100/mono.m3u8"
-    },
     "beIN SPORTS en Español": {
         "group_title": "OTHERS",
         "tvg_id": "test",
@@ -4359,6 +4347,18 @@
         "tvg_id": "test",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/bein-sports-mena-english-2.png",
         "stream_url": "https://zekonew.newkso.ru/zeko/premium90/mono.m3u8"
+    },
+    "beIN Sports MENA English 3": {
+        "group_title": "UNITED KINGDOM",
+        "tvg_id": "SkySp.Tennis.HD.uk",
+        "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-tennis-uk.png",
+        "stream_url": "https://windnew.newkso.ru/wind/premium46/mono.m3u8"
+    },
+    "beIN Sports MENA Premium 3": {
+        "group_title": "OTHERS",
+        "tvg_id": "beIN_SPORTS_XTRA1_Digital_Mono_EN.bein",
+        "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/bein-sports-xtra.png",
+        "stream_url": "https://ddy6new.newkso.ru/ddy6/premium100/mono.m3u8"
     },
     "МАТЧ! БОЕЦ Russia": {
         "group_title": "RUSSIA",
