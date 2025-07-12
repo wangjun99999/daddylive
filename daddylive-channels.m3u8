@@ -42,7 +42,7 @@ https://ddy6new.newkso.ru/ddy6/premium269/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 https://zekonew.newkso.ru/zeko/premium302/mono.m3u8
 
-#EXTINF:-1 group-title="UNITED STATES" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/abc.png",ABC USA
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="ABC.NEWS.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/abc.png",ABC USA
 #EXTVLCOPT:http-origin=https://yoxplay.xyz
 #EXTVLCOPT:http-referrer=https://yoxplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
@@ -2844,7 +2844,7 @@ https://windnew.newkso.ru/wind/premium867/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 https://windnew.newkso.ru/wind/premium680/mono.m3u8
 
-#EXTINF:-1 group-title="ITALY" tvg-id="Sky.Cinema.Uno.+24.it" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-cinema-due-plus24-it.png",Sky Cinema Due +24 Italy
+#EXTINF:-1 group-title="ITALY" tvg-id="Sky.Cinema.Due.+24.it" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-cinema-due-plus24-it.png",Sky Cinema Due +24 Italy
 #EXTVLCOPT:http-origin=https://yoxplay.xyz
 #EXTVLCOPT:http-referrer=https://yoxplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
@@ -3174,7 +3174,7 @@ https://windnew.newkso.ru/wind/premium884/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 https://windnew.newkso.ru/wind/premium46/mono.m3u8
 
-#EXTINF:-1 group-title="ITALY" tvg-id="Sky.Sport.Uno.it" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-uno-it.png",Sky UNO Italy
+#EXTINF:-1 group-title="ITALY" tvg-id="Sky.Uno.it" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-uno-it.png",Sky UNO Italy
 #EXTVLCOPT:http-origin=https://yoxplay.xyz
 #EXTVLCOPT:http-referrer=https://yoxplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36

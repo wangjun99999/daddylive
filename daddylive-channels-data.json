@@ -48,7 +48,7 @@
     },
     "ABC USA": {
         "group_title": "UNITED STATES",
-        "tvg_id": "ABC.(WABC).New.York,.NY.us",
+        "tvg_id": "ABC.NEWS.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/abc.png",
         "stream_url": "https://zekonew.newkso.ru/zeko/premium51/mono.m3u8"
     },
@@ -2850,7 +2850,7 @@
     },
     "Sky Cinema Due +24 Italy": {
         "group_title": "ITALY",
-        "tvg_id": "Sky.Cinema.Uno.+24.it",
+        "tvg_id": "Sky.Cinema.Due.+24.it",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-cinema-due-plus24-it.png",
         "stream_url": "https://windnew.newkso.ru/wind/premium866/mono.m3u8"
     },
@@ -3180,7 +3180,7 @@
     },
     "Sky UNO Italy": {
         "group_title": "ITALY",
-        "tvg_id": "Sky.Sport.Uno.it",
+        "tvg_id": "Sky.Uno.it",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-uno-it.png",
         "stream_url": "https://windnew.newkso.ru/wind/premium881/mono.m3u8"
     },

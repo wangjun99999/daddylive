@@ -21,7 +21,7 @@ https://ddy6new.newkso.ru/ddy6/premium269/mono.m3u8|Origin=https://yoxplay.xyz|R
 #EXTINF:-1 group-title="UNITED STATES" tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/aande.png",A&E USA
 https://zekonew.newkso.ru/zeko/premium302/mono.m3u8|Origin=https://yoxplay.xyz|Referrer=https://yoxplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="UNITED STATES" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/abc.png",ABC USA
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="ABC.NEWS.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/abc.png",ABC USA
 https://zekonew.newkso.ru/zeko/premium51/mono.m3u8|Origin=https://yoxplay.xyz|Referrer=https://yoxplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="UNITED STATES" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/abc.png",ABCNY USA
@@ -1422,7 +1422,7 @@ https://windnew.newkso.ru/wind/premium867/mono.m3u8|Origin=https://yoxplay.xyz|R
 #EXTINF:-1 group-title="UNITED KINGDOM" tvg-id="Sky.Drama.HD.uk" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-cinema-drama-uk.png",Sky Cinema Drama UK
 https://windnew.newkso.ru/wind/premium680/mono.m3u8|Origin=https://yoxplay.xyz|Referrer=https://yoxplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="ITALY" tvg-id="Sky.Cinema.Uno.+24.it" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-cinema-due-plus24-it.png",Sky Cinema Due +24 Italy
+#EXTINF:-1 group-title="ITALY" tvg-id="Sky.Cinema.Due.+24.it" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-cinema-due-plus24-it.png",Sky Cinema Due +24 Italy
 https://windnew.newkso.ru/wind/premium866/mono.m3u8|Origin=https://yoxplay.xyz|Referrer=https://yoxplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="ITALY" tvg-id="Sky.Cinema.Family.it" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-cinema-family-it.png",Sky Cinema Family Italy
@@ -1587,7 +1587,7 @@ https://windnew.newkso.ru/wind/premium884/mono.m3u8|Origin=https://yoxplay.xyz|R
 #EXTINF:-1 group-title="UNITED KINGDOM" tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-tennis-uk.png",Sky Sports Tennis UK
 https://windnew.newkso.ru/wind/premium46/mono.m3u8|Origin=https://yoxplay.xyz|Referrer=https://yoxplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="ITALY" tvg-id="Sky.Sport.Uno.it" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-uno-it.png",Sky UNO Italy
+#EXTINF:-1 group-title="ITALY" tvg-id="Sky.Uno.it" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-uno-it.png",Sky UNO Italy
 https://windnew.newkso.ru/wind/premium881/mono.m3u8|Origin=https://yoxplay.xyz|Referrer=https://yoxplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="UNITED KINGDOM" tvg-id="Sky.Witness.HD.uk" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-witness-uk.png",Sky Witness HD

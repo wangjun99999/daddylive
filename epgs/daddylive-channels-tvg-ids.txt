@@ -593,3 +593,6 @@ Showtime.Women.HD.-.Eastern.us
 SONY.SPORTS.TEN.3.HD.in
 Yes.TV.(CITS).Burlington,.ON.HD.ca
 Ziggo.Sport.6.nl
+ABC.NEWS.us
+Sky.Cinema.Due.+24.it
+Sky.Uno.it
