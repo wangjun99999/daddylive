@@ -2106,7 +2106,7 @@ https://windnew.newkso.ru/wind/premium53/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 https://zekonew.newkso.ru/zeko/premium277/mono.m3u8
 
-#EXTINF:-1 group-title="UNITED STATES" tvg-id="NBC.(WNBC).New.York,.NY.us   " tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nbcny-usa.png",NBCNY USA
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nbcny-usa.png",NBCNY USA
 #EXTVLCOPT:http-origin=https://yoxplay.xyz
 #EXTVLCOPT:http-referrer=https://yoxplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
@@ -4092,7 +4092,7 @@ https://zekonew.newkso.ru/zeko/premium598/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 https://dokko1new.newkso.ru/dokko1/premium392/mono.m3u8
 
-#EXTINF:-1 group-title="UNITED STATES" tvg-id="YES.Network.us   " tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/yes-network-usa.png",YES Network USA
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="YES.Network.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/yes-network-usa.png",YES Network USA
 #EXTVLCOPT:http-origin=https://yoxplay.xyz
 #EXTVLCOPT:http-referrer=https://yoxplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36

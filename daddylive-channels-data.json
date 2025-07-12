@@ -2112,7 +2112,7 @@
     },
     "NBCNY USA": {
         "group_title": "UNITED STATES",
-        "tvg_id": "NBC.(WNBC).New.York,.NY.us   ",
+        "tvg_id": "NBC.(WNBC).New.York,.NY.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nbcny-usa.png",
         "stream_url": "https://zekonew.newkso.ru/zeko/premium769/mono.m3u8"
     },
@@ -4098,7 +4098,7 @@
     },
     "YES Network USA": {
         "group_title": "UNITED STATES",
-        "tvg_id": "YES.Network.us   ",
+        "tvg_id": "YES.Network.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/yes-network-usa.png",
         "stream_url": "https://zekonew.newkso.ru/zeko/premium763/mono.m3u8"
     },

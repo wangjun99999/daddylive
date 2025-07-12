@@ -1053,7 +1053,7 @@ https://windnew.newkso.ru/wind/premium53/mono.m3u8|Origin=https%3A//yoxplay.xyz&
 #EXTINF:-1 group-title="UNITED STATES" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nbc10-philadelphia.png",NBC10 Philadelphia
 https://zekonew.newkso.ru/zeko/premium277/mono.m3u8|Origin=https%3A//yoxplay.xyz&Referrer=https%3A//yoxplay.xyz/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/132.0.0.0%20Safari/537.36
 
-#EXTINF:-1 group-title="UNITED STATES" tvg-id="NBC.(WNBC).New.York,.NY.us   " tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nbcny-usa.png",NBCNY USA
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nbcny-usa.png",NBCNY USA
 https://zekonew.newkso.ru/zeko/premium769/mono.m3u8|Origin=https%3A//yoxplay.xyz&Referrer=https%3A//yoxplay.xyz/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/132.0.0.0%20Safari/537.36
 
 #EXTINF:-1 group-title="GERMANY" tvg-id="NDR.de" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/ndr-de.png",NDR DE
@@ -2046,7 +2046,7 @@ https://zekonew.newkso.ru/zeko/premium598/mono.m3u8|Origin=https%3A//yoxplay.xyz
 #EXTINF:-1 group-title="COLUMBIA" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/win-sportsplus-columbia.png",Win Sports+ Columbia
 https://dokko1new.newkso.ru/dokko1/premium392/mono.m3u8|Origin=https%3A//yoxplay.xyz&Referrer=https%3A//yoxplay.xyz/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/132.0.0.0%20Safari/537.36
 
-#EXTINF:-1 group-title="UNITED STATES" tvg-id="YES.Network.us   " tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/yes-network-usa.png",YES Network USA
+#EXTINF:-1 group-title="UNITED STATES" tvg-id="YES.Network.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/yes-network-usa.png",YES Network USA
 https://zekonew.newkso.ru/zeko/premium763/mono.m3u8|Origin=https%3A//yoxplay.xyz&Referrer=https%3A//yoxplay.xyz/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/132.0.0.0%20Safari/537.36
 
 #EXTINF:-1 group-title="ISRAEL" tvg-id="yes.Movies.Action.il" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/yes-movies-action-israel.png",Yes Movies Action Israel
