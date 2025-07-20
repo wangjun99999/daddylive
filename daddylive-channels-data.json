@@ -88,12 +88,6 @@
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/axs-tv.png",
         "stream_url": "https://nfsnew.newkso.ru/nfs/premium742/mono.m3u8"
     },
-    "Abu Dhabi Sports 1 Premium": {
-        "group_title": "UNITED ARAB EMIRATES",
-        "tvg_id": "test",
-        "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/abu-dhabi-sports.png",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium609/mono.m3u8"
-    },
     "Abu Dhabi Sports 1 UAE": {
         "group_title": "UNITED ARAB EMIRATES",
         "tvg_id": "test",
@@ -4101,6 +4095,12 @@
         "tvg_id": "YES.Network.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/yes-network-usa.png",
         "stream_url": "https://zekonew.newkso.ru/zeko/premium763/mono.m3u8"
+    },
+    "Yas TV UAE": {
+        "group_title": "UNITED ARAB EMIRATES",
+        "tvg_id": "test",
+        "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/abu-dhabi-sports.png",
+        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium609/mono.m3u8"
     },
     "Yes Movies Action Israel": {
         "group_title": "ISRAEL",
