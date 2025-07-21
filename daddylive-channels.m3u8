@@ -84,6 +84,12 @@ https://ddy6new.newkso.ru/ddy6/premium717/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 https://nfsnew.newkso.ru/nfs/premium742/mono.m3u8
 
+#EXTINF:-1 group-title="UNITED ARAB EMIRATES" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/abu-dhabi-sports.png",Abu Dhabi Sports 1 Premium
+#EXTVLCOPT:http-origin=https://fnjplay.xyz
+#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://dokko1new.newkso.ru/dokko1/premium609/mono.m3u8
+
 #EXTINF:-1 group-title="UNITED ARAB EMIRATES" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/abu-dhabi-sports.png",Abu Dhabi Sports 1 UAE
 #EXTVLCOPT:http-origin=https://fnjplay.xyz
 #EXTVLCOPT:http-referrer=https://fnjplay.xyz/
@@ -3553,10 +3559,10 @@ https://ddy6new.newkso.ru/ddy6/premium418/mono.m3u8
 https://zekonew.newkso.ru/zeko/premium419/mono.m3u8
 
 #EXTINF:-1 group-title="SOUTH AFRICA" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/supersport-football.png",Supersport Football
-#EXTVLCOPT:http-origin=https://fnjplay.xyz
-#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://zekonew.newkso.ru/zeko/premium56/mono.m3u8
+https://wikinew.newkso.ru/wiki/eplayerSuperSportFootball/mono.m3u8
 
 #EXTINF:-1 group-title="UNITED STATES" tvg-id="TBS.-.East.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tbs-usa.png",TBS USA
 #EXTVLCOPT:http-origin=https://fnjplay.xyz
@@ -4091,12 +4097,6 @@ https://dokko1new.newkso.ru/dokko1/premium392/mono.m3u8
 #EXTVLCOPT:http-referrer=https://fnjplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 https://zekonew.newkso.ru/zeko/premium763/mono.m3u8
-
-#EXTINF:-1 group-title="UNITED ARAB EMIRATES" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/abu-dhabi-sports.png",Yas TV UAE
-#EXTVLCOPT:http-origin=https://fnjplay.xyz
-#EXTVLCOPT:http-referrer=https://fnjplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://dokko1new.newkso.ru/dokko1/premium609/mono.m3u8
 
 #EXTINF:-1 group-title="ISRAEL" tvg-id="yes.Movies.Action.il" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/yes-movies-action-israel.png",Yes Movies Action Israel
 #EXTVLCOPT:http-origin=https://fnjplay.xyz

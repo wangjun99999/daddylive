@@ -42,6 +42,9 @@ https://ddy6new.newkso.ru/ddy6/premium717/mono.m3u8|Origin=https%3A//fnjplay.xyz
 #EXTINF:-1 group-title="UNITED STATES" tvg-id="AXS.TV.USA.HD.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/axs-tv.png",AXS TV USA
 https://nfsnew.newkso.ru/nfs/premium742/mono.m3u8|Origin=https%3A//fnjplay.xyz&Referrer=https%3A//fnjplay.xyz/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/132.0.0.0%20Safari/537.36
 
+#EXTINF:-1 group-title="UNITED ARAB EMIRATES" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/abu-dhabi-sports.png",Abu Dhabi Sports 1 Premium
+https://dokko1new.newkso.ru/dokko1/premium609/mono.m3u8|Origin=https%3A//fnjplay.xyz&Referrer=https%3A//fnjplay.xyz/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/132.0.0.0%20Safari/537.36
+
 #EXTINF:-1 group-title="UNITED ARAB EMIRATES" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/abu-dhabi-sports.png",Abu Dhabi Sports 1 UAE
 https://windnew.newkso.ru/wind/premium600/mono.m3u8|Origin=https%3A//fnjplay.xyz&Referrer=https%3A//fnjplay.xyz/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/132.0.0.0%20Safari/537.36
 
@@ -1777,7 +1780,7 @@ https://ddy6new.newkso.ru/ddy6/premium418/mono.m3u8|Origin=https%3A//fnjplay.xyz
 https://zekonew.newkso.ru/zeko/premium419/mono.m3u8|Origin=https%3A//fnjplay.xyz&Referrer=https%3A//fnjplay.xyz/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/132.0.0.0%20Safari/537.36
 
 #EXTINF:-1 group-title="SOUTH AFRICA" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/supersport-football.png",Supersport Football
-https://zekonew.newkso.ru/zeko/premium56/mono.m3u8|Origin=https%3A//fnjplay.xyz&Referrer=https%3A//fnjplay.xyz/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/132.0.0.0%20Safari/537.36
+https://wikinew.newkso.ru/wiki/eplayerSuperSportFootball/mono.m3u8|Origin=https%3A//topembed.pw&Referrer=https%3A//topembed.pw/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/132.0.0.0%20Safari/537.36
 
 #EXTINF:-1 group-title="UNITED STATES" tvg-id="TBS.-.East.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tbs-usa.png",TBS USA
 https://zekonew.newkso.ru/zeko/premium336/mono.m3u8|Origin=https%3A//fnjplay.xyz&Referrer=https%3A//fnjplay.xyz/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/132.0.0.0%20Safari/537.36
@@ -2045,9 +2048,6 @@ https://dokko1new.newkso.ru/dokko1/premium392/mono.m3u8|Origin=https%3A//fnjplay
 
 #EXTINF:-1 group-title="UNITED STATES" tvg-id="YES.Network.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/yes-network-usa.png",YES Network USA
 https://zekonew.newkso.ru/zeko/premium763/mono.m3u8|Origin=https%3A//fnjplay.xyz&Referrer=https%3A//fnjplay.xyz/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/132.0.0.0%20Safari/537.36
-
-#EXTINF:-1 group-title="UNITED ARAB EMIRATES" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/abu-dhabi-sports.png",Yas TV UAE
-https://dokko1new.newkso.ru/dokko1/premium609/mono.m3u8|Origin=https%3A//fnjplay.xyz&Referrer=https%3A//fnjplay.xyz/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/132.0.0.0%20Safari/537.36
 
 #EXTINF:-1 group-title="ISRAEL" tvg-id="yes.Movies.Action.il" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/yes-movies-action-israel.png",Yes Movies Action Israel
 https://zekonew.newkso.ru/zeko/premium543/mono.m3u8|Origin=https%3A//fnjplay.xyz&Referrer=https%3A//fnjplay.xyz/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/132.0.0.0%20Safari/537.36
