@@ -232,8 +232,8 @@
         "group_title": "SERBIA",
         "tvg_id": "test",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/arena-sport-2-premium.png",
-        "channel_url": "https://dlhd.click/watch/stream-135.php",
-        "stream_url": "https://x4new.newkso.ru/x4/arena2premiumserbia/mono.m3u8",
+        "channel_url": "https://dlhd.click/cast/stream-135.php",
+        "stream_url": "https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8",
         "options": [
             "#EXTVLCOPT:http-origin=https://topembed.pw",
             "#EXTVLCOPT:http-referrer=https://topembed.pw/"
