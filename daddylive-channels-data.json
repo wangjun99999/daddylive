@@ -1,7 +1,7 @@
 {
     "GLOBAL_OPTIONS": [
-        "#EXTVLCOPT:http-origin=https://fnjplay.xyz",
-        "#EXTVLCOPT:http-referrer=https://fnjplay.xyz/",
+        "#EXTVLCOPT:http-origin=https://topembed.pw",
+        "#EXTVLCOPT:http-referrer=https://topembed.pw/",
         "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
     ],
     "#Vamos Spain": {
@@ -57,8 +57,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "ABC.NEWS.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/abc.png",
-        "channel_url": "https://dlhd.click/cast/stream-51.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium51/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-51.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvabc/mono.m3u8"
     },
     "ABCNY USA": {
         "group_title": "UNITED STATES",
@@ -85,8 +85,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "AMC.-.Eastern.Feed.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/amc.png",
-        "channel_url": "https://dlhd.click/cast/stream-303.php",
-        "stream_url": "https://nfsnew.newkso.ru/nfs/premium303/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-303.php",
+        "stream_url": "https://hztnew.newkso.ru/hzt/ustvamc/mono.m3u8"
     },
     "AXN Movies Portugal": {
         "group_title": "PORTUGAL",
@@ -183,8 +183,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "Animal.Planet.US.-.East.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/animal-planet.png",
-        "channel_url": "https://dlhd.click/cast/stream-304.php",
-        "stream_url": "https://nfsnew.newkso.ru/nfs/premium304/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-304.php",
+        "stream_url": "https://top2new.newkso.ru/top2/ustvanimal/mono.m3u8"
     },
     "Antena 3 Spain": {
         "group_title": "SPAIN",
@@ -211,15 +211,15 @@
         "group_title": "SERBIA",
         "tvg_id": "test",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/arena-sport-1-premium.png",
-        "channel_url": "https://dlhd.click/cast/stream-134.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium134/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-134.php",
+        "stream_url": "https://x4new.newkso.ru/x4/arena1premiumserbia/mono.m3u8"
     },
     "Arena Sport 1 Serbia": {
         "group_title": "SERBIA",
         "tvg_id": "test",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/arena-sport-1.png",
-        "channel_url": "https://dlhd.click/cast/stream-429.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium429/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-429.php",
+        "stream_url": "https://x4new.newkso.ru/x4/arenasport1serbia/mono.m3u8"
     },
     "Arena Sport 2 Croatia": {
         "group_title": "CROATIA",
@@ -232,8 +232,8 @@
         "group_title": "SERBIA",
         "tvg_id": "test",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/arena-sport-2-premium.png",
-        "channel_url": "https://dlhd.click/cast/stream-135.php",
-        "stream_url": "https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8",
+        "channel_url": "https://dlhd.click/watch/stream-135.php",
+        "stream_url": "https://x4new.newkso.ru/x4/arena2premiumserbia/mono.m3u8",
         "options": [
             "#EXTVLCOPT:http-origin=https://topembed.pw",
             "#EXTVLCOPT:http-referrer=https://topembed.pw/"
@@ -243,8 +243,8 @@
         "group_title": "SERBIA",
         "tvg_id": "test",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/arena-sport-2.png",
-        "channel_url": "https://dlhd.click/cast/stream-430.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium430/mono.m3u8",
+        "channel_url": "https://dlhd.click/watch/stream-430.php",
+        "stream_url": "https://x4new.newkso.ru/x4/arenasport2serbia/mono.m3u8",
         "options": [
             "#EXTVLCOPT:http-origin=https://topembed.pw",
             "#EXTVLCOPT:http-referrer=https://topembed.pw/"
@@ -268,8 +268,8 @@
         "group_title": "SERBIA",
         "tvg_id": "test",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/arena-sport-3.png",
-        "channel_url": "https://dlhd.click/cast/stream-431.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium431/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-431.php",
+        "stream_url": "https://x4new.newkso.ru/x4/arenasport3serbia/mono.m3u8"
     },
     "Arena Sport 4 Croatia": {
         "group_title": "CROATIA",
@@ -282,8 +282,8 @@
         "group_title": "SERBIA",
         "tvg_id": "test",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/arena-sport-4.png",
-        "channel_url": "https://dlhd.click/cast/stream-581.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium581/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-581.php",
+        "stream_url": "https://x4new.newkso.ru/x4/arenasport4serbia/mono.m3u8"
     },
     "Arte DE": {
         "group_title": "GERMANY",
@@ -345,8 +345,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "BBC.America.-.East.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/bbc-america.png",
-        "channel_url": "https://dlhd.click/cast/stream-305.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium305/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-305.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvbbcamerica/mono.m3u8"
     },
     "BBC Four UK": {
         "group_title": "UNITED KINGDOM",
@@ -366,8 +366,8 @@
         "group_title": "UNITED KINGDOM",
         "tvg_id": "BBCOne.uk",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/bbc-one.png",
-        "channel_url": "https://dlhd.click/cast/stream-356.php",
-        "stream_url": "https://ddy6new.newkso.ru/ddy6/premium356/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-356.php",
+        "stream_url": "https://x4new.newkso.ru/x4/xbbc1/mono.m3u8"
     },
     "BBC Three UK": {
         "group_title": "UNITED KINGDOM",
@@ -387,15 +387,15 @@
         "group_title": "UNITED STATES",
         "tvg_id": "BET.-.Eastern.Feed.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/showtime-shoxbet-usa.png",
-        "channel_url": "https://dlhd.click/cast/stream-306.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium306/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-306.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvbet/mono.m3u8"
     },
     "BIG TEN Network (BTN USA)": {
         "group_title": "UNITED STATES",
         "tvg_id": "Big.Ten.Network.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/big-ten-network.png",
-        "channel_url": "https://dlhd.click/cast/stream-397.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium397/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-397.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvbtn/mono.m3u8"
     },
     "BNT 1 Bulgaria": {
         "group_title": "BULGARIA",
@@ -464,15 +464,15 @@
         "group_title": "UNITED STATES",
         "tvg_id": "Boomerang.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/boomerang.png",
-        "channel_url": "https://dlhd.click/cast/stream-648.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium648/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-648.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvboom/mono.m3u8"
     },
     "Bravo USA": {
         "group_title": "UNITED STATES",
         "tvg_id": "Bravo.USA.-.Eastern.Feed.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/bravo.png",
-        "channel_url": "https://dlhd.click/cast/stream-307.php",
-        "stream_url": "https://nfsnew.newkso.ru/nfs/premium307/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-307.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvbravo/mono.m3u8"
     },
     "C More Football Sweden": {
         "group_title": "SWEDEN",
@@ -541,15 +541,15 @@
         "group_title": "UNITED STATES",
         "tvg_id": "CBS.Sports.Network.USA.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cbs-sports-network.png",
-        "channel_url": "https://dlhd.click/cast/stream-308.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium308/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-308.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvcbssn/mono.m3u8"
     },
     "CBS USA": {
         "group_title": "UNITED STATES",
         "tvg_id": "CBS.(KCBS).Los.Angeles,.CA.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cbs-usa.png",
-        "channel_url": "https://dlhd.click/cast/stream-52.php",
-        "stream_url": "https://nfsnew.newkso.ru/nfs/premium52/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-52.php",
+        "stream_url": "https://x4new.newkso.ru/x4/ustvcbs/mono.m3u8"
     },
     "CBSNY USA": {
         "group_title": "UNITED STATES",
@@ -576,15 +576,15 @@
         "group_title": "UNITED STATES",
         "tvg_id": "CNBC.USA.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nbc-usa.png",
-        "channel_url": "https://dlhd.click/cast/stream-309.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium309/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-309.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvcnbc/mono.m3u8"
     },
     "CNN USA": {
         "group_title": "UNITED STATES",
         "tvg_id": "CNN.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cnn.png",
-        "channel_url": "https://dlhd.click/cast/stream-345.php",
-        "stream_url": "https://nfsnew.newkso.ru/nfs/premium345/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-345.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvcnn/mono.m3u8"
     },
     "COZI TV USA": {
         "group_title": "UNITED STATES",
@@ -716,8 +716,8 @@
         "group_title": "FRANCE",
         "tvg_id": "CANAL+.SPORT.fr",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/canal-plus-sport-france.png",
-        "channel_url": "https://dlhd.click/cast/stream-122.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium122/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-122.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/canalplusfrance/mono.m3u8"
     },
     "Canal+ Sport Poland": {
         "group_title": "POLAND",
@@ -800,8 +800,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "Cinemax.-.Eastern.Feed.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cinemax.png",
-        "channel_url": "https://dlhd.click/cast/stream-374.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium374/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-374.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvcinemax/mono.m3u8"
     },
     "Citytv": {
         "group_title": "CANADA",
@@ -828,8 +828,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "Comedy.Central.(US).-.Eastern.Feed.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/comedy-central.png",
-        "channel_url": "https://dlhd.click/cast/stream-310.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium310/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-310.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvcomedycentral/mono.m3u8"
     },
     "Comet USA": {
         "group_title": "UNITED STATES",
@@ -849,43 +849,43 @@
         "group_title": "GREECE",
         "tvg_id": "COSMOTE.Sport.1.HD.gr",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cosmote-sport-1.png",
-        "channel_url": "https://dlhd.click/cast/stream-622.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium622/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-622.php",
+        "stream_url": "https://top2new.newkso.ru/top2/ftkcosmote1/mono.m3u8"
     },
     "Cosmote Sport 2 HD": {
         "group_title": "GREECE",
         "tvg_id": "COSMOTE.Sport.2.HD.gr",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cosmote-sport-2.png",
-        "channel_url": "https://dlhd.click/cast/stream-623.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium623/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-623.php",
+        "stream_url": "https://top2new.newkso.ru/top2/ftkcosmote2/mono.m3u8"
     },
     "Cosmote Sport 3 HD": {
         "group_title": "GREECE",
         "tvg_id": "COSMOTE.Sport.3.HD.gr",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cosmote-sport-3.png",
-        "channel_url": "https://dlhd.click/cast/stream-624.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium624/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-624.php",
+        "stream_url": "https://top2new.newkso.ru/top2/ftkcosmote3/mono.m3u8"
     },
     "Cosmote Sport 4 HD": {
         "group_title": "GREECE",
         "tvg_id": "COSMOTE.Sport.4.HD.gr",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cosmote-sport-4.png",
-        "channel_url": "https://dlhd.click/cast/stream-625.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-625.php",
+        "stream_url": "https://top2new.newkso.ru/top2/ftkcosmote4/mono.m3u8"
     },
     "Cosmote Sport 5 HD": {
         "group_title": "GREECE",
         "tvg_id": "COSMOTE.Sport.5.HD.gr",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cosmote-sport-5.png",
-        "channel_url": "https://dlhd.click/cast/stream-626.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium626/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-626.php",
+        "stream_url": "https://top2new.newkso.ru/top2/ftkcosmote5/mono.m3u8"
     },
     "Cosmote Sport 6 HD": {
         "group_title": "GREECE",
         "tvg_id": "COSMOTE.Sport.6.HD.gr",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cosmote-sport-6.png",
-        "channel_url": "https://dlhd.click/cast/stream-627.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium627/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-627.php",
+        "stream_url": "https://top2new.newkso.ru/top2/ftkcosmote6/mono.m3u8"
     },
     "Cosmote Sport 7 HD": {
         "group_title": "GREECE",
@@ -905,8 +905,8 @@
         "group_title": "GREECE",
         "tvg_id": "COSMOTE.Sport.9.HD.gr",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/cosmote-sport-9.png",
-        "channel_url": "https://dlhd.click/cast/stream-630.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium630/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-630.php",
+        "stream_url": "https://top2new.newkso.ru/top2/ftkcosmote9/mono.m3u8"
     },
     "Court TV USA": {
         "group_title": "UNITED STATES",
@@ -982,8 +982,8 @@
         "group_title": "GERMANY",
         "tvg_id": "DAZN.1.de",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/dazn-1.png",
-        "channel_url": "https://dlhd.click/cast/stream-426.php",
-        "stream_url": "https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-426.php",
+        "stream_url": "https://x4new.newkso.ru/x4/dazn1de/mono.m3u8"
     },
     "DAZN 1 Spain": {
         "group_title": "SPAIN",
@@ -996,15 +996,15 @@
         "group_title": "UNITED KINGDOM",
         "tvg_id": "test",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/dazn-1.png",
-        "channel_url": "https://dlhd.click/cast/stream-230.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium230/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-230.php",
+        "stream_url": "https://x4new.newkso.ru/x4/dazn1uk/mono.m3u8"
     },
     "DAZN 2 Bar DE": {
         "group_title": "GERMANY",
         "tvg_id": "DAZN.2.de",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/dazn-2.png",
-        "channel_url": "https://dlhd.click/cast/stream-427.php",
-        "stream_url": "https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8"
+        "channel_url": "https://dlhd.click/player/stream-427.php",
+        "stream_url": "https://x4new.newkso.ru/x4/dazn2de/mono.m3u8"
     },
     "DAZN 2 Spain": {
         "group_title": "SPAIN",
@@ -1087,8 +1087,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "Destination.America.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/destination-america.png",
-        "channel_url": "https://dlhd.click/cast/stream-651.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium651/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-651.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvdestinationamerica/mono.m3u8"
     },
     "Diema Bulgaria": {
         "group_title": "BULGARIA",
@@ -1129,36 +1129,36 @@
         "group_title": "ROMANIA",
         "tvg_id": "Digi.Sport.1.ro",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/digi-sport-1.png",
-        "channel_url": "https://dlhd.click/cast/stream-400.php",
+        "channel_url": "https://dlhd.click/watch/stream-400.php",
         "stream_url": "https://nfsnew.newkso.ru/nfs/premium400/mono.m3u8"
     },
     "Digi Sport 2 Romania": {
         "group_title": "ROMANIA",
         "tvg_id": "Digi.Sport.2.ro",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/digi-sport-2.png",
-        "channel_url": "https://dlhd.click/cast/stream-401.php",
+        "channel_url": "https://dlhd.click/watch/stream-401.php",
         "stream_url": "https://nfsnew.newkso.ru/nfs/premium401/mono.m3u8"
     },
     "Digi Sport 3 Romania": {
         "group_title": "ROMANIA",
         "tvg_id": "Digi.Sport.3.ro",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/digi-sport-3.png",
-        "channel_url": "https://dlhd.click/cast/stream-402.php",
+        "channel_url": "https://dlhd.click/watch/stream-402.php",
         "stream_url": "https://nfsnew.newkso.ru/nfs/premium402/mono.m3u8"
     },
     "Digi Sport 4 Romania": {
         "group_title": "ROMANIA",
         "tvg_id": "Digi.Sport.4.ro",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/digi-sport-4.png",
-        "channel_url": "https://dlhd.click/cast/stream-403.php",
+        "channel_url": "https://dlhd.click/watch/stream-403.php",
         "stream_url": "https://nfsnew.newkso.ru/nfs/premium403/mono.m3u8"
     },
     "Discovery Channel": {
         "group_title": "UNITED STATES",
         "tvg_id": "Discovery.Channel.(US).-.Eastern.Feed.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/discovery-channel.png",
-        "channel_url": "https://dlhd.click/cast/stream-313.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium313/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-313.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvdiscoverychannel/mono.m3u8"
     },
     "Discovery Family": {
         "group_title": "UNITED STATES",
@@ -1185,15 +1185,15 @@
         "group_title": "UNITED STATES",
         "tvg_id": "Disney.-.Eastern.Feed.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/disney-channel.png",
-        "channel_url": "https://dlhd.click/cast/stream-312.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium312/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-312.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvdisney/mono.m3u8"
     },
     "Disney JR": {
         "group_title": "UNITED STATES",
         "tvg_id": "Disney.Junior.USA.-.East.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/disney-junior.png",
-        "channel_url": "https://dlhd.click/cast/stream-652.php",
-        "stream_url": "https://nfsnew.newkso.ru/nfs/premium652/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-652.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvdisneyjr/mono.m3u8"
     },
     "Disney XD": {
         "group_title": "UNITED STATES",
@@ -1276,8 +1276,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "ESPN.Deportes.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/espn-deportes.png",
-        "channel_url": "https://dlhd.click/cast/stream-375.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium375/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-375.php",
+        "stream_url": "https://top2new.newkso.ru/top2/eplayerespn_dep/mono.m3u8"
     },
     "ESPN Extra Argentina": {
         "group_title": "ARGENTINA",
@@ -1297,15 +1297,15 @@
         "group_title": "ARGENTINA",
         "tvg_id": "test",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/espn-sur.png",
-        "channel_url": "https://dlhd.click/cast/stream-149.php",
-        "stream_url": "https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-149.php",
+        "stream_url": "https://x4new.newkso.ru/x4/argespn/mono.m3u8"
     },
     "ESPN USA": {
         "group_title": "UNITED STATES",
         "tvg_id": "ESPN.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/espn-usa.png",
-        "channel_url": "https://dlhd.click/cast/stream-44.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium44/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-44.php",
+        "stream_url": "https://hztnew.newkso.ru/hzt/eplayerespn_usa/mono.m3u8"
     },
     "ESPN2 Brazil": {
         "group_title": "BRAZIL",
@@ -1318,8 +1318,8 @@
         "group_title": "ARGENTINA",
         "tvg_id": "test",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/espn-2-sur.png",
-        "channel_url": "https://dlhd.click/cast/stream-150.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium150/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-150.php",
+        "stream_url": "https://top2new.newkso.ru/top2/arg_espn2/mono.m3u8"
     },
     "ESPN2 USA": {
         "group_title": "UNITED STATES",
@@ -1367,8 +1367,8 @@
         "group_title": "PORTUGAL",
         "tvg_id": "ElevenSports1(src01).pt",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/eleven-sports-1.png",
-        "channel_url": "https://dlhd.click/cast/stream-455.php",
-        "stream_url": "https://ddy6new.newkso.ru/ddy6/premium455/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-455.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/eplayereleven1/mono.m3u8"
     },
     "Eleven Sports 2 Poland": {
         "group_title": "POLAND",
@@ -1381,8 +1381,8 @@
         "group_title": "PORTUGAL",
         "tvg_id": "ElevenSports2(src01).pt",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/eleven-sports-2.png",
-        "channel_url": "https://dlhd.click/cast/stream-456.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium456/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-456.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/eplayereleven2/mono.m3u8"
     },
     "Eleven Sports 3 Poland": {
         "group_title": "POLAND",
@@ -1395,22 +1395,22 @@
         "group_title": "PORTUGAL",
         "tvg_id": "ElevenSports3(src01).pt",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/eleven-sports-3.png",
-        "channel_url": "https://dlhd.click/cast/stream-457.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium457/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-457.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/eplayereleven3/mono.m3u8"
     },
     "Eleven Sports 4 Portugal": {
         "group_title": "PORTUGAL",
         "tvg_id": "ElevenSports4(src01).pt",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/eleven-sports-4.png",
-        "channel_url": "https://dlhd.click/cast/stream-458.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium458/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-458.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/eplayereleven4/mono.m3u8"
     },
     "Eleven Sports 5 Portugal": {
         "group_title": "PORTUGAL",
         "tvg_id": "ElevenSports5(src01).pt",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/eleven-sports-5.png",
-        "channel_url": "https://dlhd.click/cast/stream-459.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium459/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-459.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/eplayereleven5/mono.m3u8"
     },
     "EuroSport 1 Italy": {
         "group_title": "ITALY",
@@ -1752,8 +1752,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "Fox.Sports.1.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/fox-sports-1-usa.png",
-        "channel_url": "https://dlhd.click/cast/stream-39.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium39/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-39.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/eplayerfs1/mono.m3u8"
     },
     "Fox Sports 2 Argentina": {
         "group_title": "ARGENTINA",
@@ -2368,8 +2368,8 @@
         "group_title": "SPAIN",
         "tvg_id": "MplusDEPORTES(src01).es",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/movistar-deportes.png",
-        "channel_url": "https://dlhd.click/cast/stream-436.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium436/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-436.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/movistardeportes/mono.m3u8"
     },
     "Movistar Golf Spain": {
         "group_title": "SPAIN",
@@ -2410,8 +2410,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "NBA.TV.USA.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nba-tv-usa.png",
-        "channel_url": "https://dlhd.click/cast/stream-404.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium404/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-404.php",
+        "stream_url": "https://hztnew.newkso.ru/hzt/nbatv/mono.m3u8"
     },
     "NBC Sports Bay Area": {
         "group_title": "UNITED STATES",
@@ -2459,8 +2459,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "NBC.Sports.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nbc-usa.png",
-        "channel_url": "https://dlhd.click/cast/stream-53.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium53/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-53.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvnbc/mono.m3u8"
     },
     "NBC10 Philadelphia": {
         "group_title": "UNITED STATES",
@@ -2494,8 +2494,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "NFL.Network.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nfl-network-usa.png",
-        "channel_url": "https://dlhd.click/cast/stream-405.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium405/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-405.php",
+        "stream_url": "https://hztnew.newkso.ru/hzt/eplayerNFLNetwork/mono.m3u8"
     },
     "NHL Network USA": {
         "group_title": "UNITED STATES",
@@ -2508,8 +2508,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "Nickelodeon.USA.-.East.Feed.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nick.png",
-        "channel_url": "https://dlhd.click/cast/stream-330.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium330/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-330.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvnickelodeon/mono.m3u8"
     },
     "NICK JR": {
         "group_title": "UNITED STATES",
@@ -2529,8 +2529,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "National.Geographic.US.-.Eastern.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/national-geographic.png",
-        "channel_url": "https://dlhd.click/cast/stream-328.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium328/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-328.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvnationalgeographic/mono.m3u8"
     },
     "NewsNation USA": {
         "group_title": "UNITED STATES",
@@ -2557,8 +2557,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "Nicktoons.-.East.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nicktoons.png",
-        "channel_url": "https://dlhd.click/cast/stream-649.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium649/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-649.php",
+        "stream_url": "https://hztnew.newkso.ru/hzt/ustvnicktoons/mono.m3u8"
     },
     "Noovo CA": {
         "group_title": "CANADA",
@@ -2585,43 +2585,43 @@
         "group_title": "GREECE",
         "tvg_id": "Novasports1.gr",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nova-sports-1-gr.png",
-        "channel_url": "https://dlhd.click/cast/stream-631.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium631/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-631.php",
+        "stream_url": "https://top2new.newkso.ru/top2/ftknovasport1/mono.m3u8"
     },
     "Nova Sports 2 Greece": {
         "group_title": "GREECE",
         "tvg_id": "Novasports2.gr",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nova-sports-2-gr.png",
-        "channel_url": "https://dlhd.click/cast/stream-632.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium632/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-632.php",
+        "stream_url": "https://top2new.newkso.ru/top2/ftknovasport2/mono.m3u8"
     },
     "Nova Sports 3 Greece": {
         "group_title": "GREECE",
         "tvg_id": "Novasports3.gr",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nova-sports-3-gr.png",
-        "channel_url": "https://dlhd.click/cast/stream-633.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium633/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-633.php",
+        "stream_url": "https://top2new.newkso.ru/top2/ftknovasport3/mono.m3u8"
     },
     "Nova Sports 4 Greece": {
         "group_title": "GREECE",
         "tvg_id": "Novasports4.gr",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nova-sports-4-gr.png",
-        "channel_url": "https://dlhd.click/cast/stream-634.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium634/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-634.php",
+        "stream_url": "https://top2new.newkso.ru/top2/ftknovasport4/mono.m3u8"
     },
     "Nova Sports 5 Greece": {
         "group_title": "GREECE",
         "tvg_id": "Novasports5.gr",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nova-sports-5-gr.png",
-        "channel_url": "https://dlhd.click/cast/stream-635.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium635/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-635.php",
+        "stream_url": "https://top2new.newkso.ru/top2/ftknovasport5/mono.m3u8"
     },
     "Nova Sports 6 Greece": {
         "group_title": "GREECE",
         "tvg_id": "Novasports6.gr",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nova-sports-6-gr.png",
-        "channel_url": "https://dlhd.click/cast/stream-636.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium636/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-636.php",
+        "stream_url": "https://top2new.newkso.ru/top2/ftknovasport6/mono.m3u8"
     },
     "Nova Sports News Greece": {
         "group_title": "GREECE",
@@ -2648,8 +2648,8 @@
         "group_title": "GREECE",
         "tvg_id": "Novasports.Start.gr",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/nova-sports-start-gr.png",
-        "channel_url": "https://dlhd.click/cast/stream-637.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium637/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-637.php",
+        "stream_url": "https://x4new.newkso.ru/x4/ftknovasportstart/mono.m3u8"
     },
     "Nova TV Bulgaria": {
         "group_title": "BULGARIA",
@@ -2823,7 +2823,7 @@
         "group_title": "ROMANIA",
         "tvg_id": "Prima.Sport.1.ro",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/prima-sport-1-ro.png",
-        "channel_url": "https://dlhd.click/cast/stream-583.php",
+        "channel_url": "https://dlhd.click/watch/stream-583.php",
         "stream_url": "https://nfsnew.newkso.ru/nfs/premium583/mono.m3u8"
     },
     "Prima Sport 2": {
@@ -3628,8 +3628,8 @@
         "group_title": "UNITED KINGDOM",
         "tvg_id": "SkySp.Cricket.uk",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-cricket-uk.png",
-        "channel_url": "https://dlhd.click/cast/stream-65.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium65/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-65.php",
+        "stream_url": "https://azonew.newkso.ru/azo/eplayerskycric/mono.m3u8"
     },
     "Sky Sports F1 DE": {
         "group_title": "GERMANY",
@@ -3642,15 +3642,15 @@
         "group_title": "UNITED KINGDOM",
         "tvg_id": "SkySp.F1.uk",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-f1-uk.png",
-        "channel_url": "https://dlhd.click/cast/stream-60.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium60/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-60.php",
+        "stream_url": "https://azonew.newkso.ru/azo/eplayerskyf1/mono.m3u8"
     },
     "Sky Sports Football UK": {
         "group_title": "UNITED KINGDOM",
         "tvg_id": "SkySp.Fball.uk",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-football-uk.png",
-        "channel_url": "https://dlhd.click/cast/stream-35.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium35/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-35.php",
+        "stream_url": "https://azonew.newkso.ru/azo/eplayerskyfoot/mono.m3u8"
     },
     "Sky Sports Golf Italy": {
         "group_title": "ITALY",
@@ -3663,22 +3663,22 @@
         "group_title": "UNITED KINGDOM",
         "tvg_id": "SkySp.Golf.uk",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-golf-uk.png",
-        "channel_url": "https://dlhd.click/cast/stream-70.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium70/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-70.php",
+        "stream_url": "https://azonew.newkso.ru/azo/skygolf/mono.m3u8"
     },
     "Sky Sports MIX UK": {
         "group_title": "UNITED KINGDOM",
         "tvg_id": "SkySp.Mix.HD.uk",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-mix-uk.png",
-        "channel_url": "https://dlhd.click/cast/stream-449.php",
-        "stream_url": "https://ddy6new.newkso.ru/ddy6/premium449/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-449.php",
+        "stream_url": "https://x4new.newkso.ru/x4/skymix/mono.m3u8"
     },
     "Sky Sports Main Event": {
         "group_title": "UNITED KINGDOM",
         "tvg_id": "SkySpMainEv.uk",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-main-event-uk.png",
-        "channel_url": "https://dlhd.click/cast/stream-38.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium38/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-38.php",
+        "stream_url": "https://azonew.newkso.ru/azo/eplayerskymain2/mono.m3u8"
     },
     "Sky Sports News UK": {
         "group_title": "UNITED KINGDOM",
@@ -3691,8 +3691,8 @@
         "group_title": "UNITED KINGDOM",
         "tvg_id": "SkySportsPremierLeague.uk",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-premier-league-uk.png",
-        "channel_url": "https://dlhd.click/cast/stream-130.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-130.php",
+        "stream_url": "https://azonew.newkso.ru/azo/eplayerSKYPL/mono.m3u8"
     },
     "Sky Sports Racing UK": {
         "group_title": "UNITED KINGDOM",
@@ -3845,8 +3845,8 @@
         "group_title": "SERBIA",
         "tvg_id": "test",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sport-klub-1-serbia.png",
-        "channel_url": "https://dlhd.click/cast/stream-101.php",
-        "stream_url": "https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-101.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/PNpYBn6hAz/mono.m3u8"
     },
     "Sport Klub 2 Serbia": {
         "group_title": "SERBIA",
@@ -3859,8 +3859,8 @@
         "group_title": "SERBIA",
         "tvg_id": "test",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sport-klub-3-serbia.png",
-        "channel_url": "https://dlhd.click/cast/stream-103.php",
-        "stream_url": "https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-103.php",
+        "stream_url": "https://x4new.newkso.ru/x4/sportklub3serbia/mono.m3u8"
     },
     "Sport Klub 4 Serbia": {
         "group_title": "SERBIA",
@@ -3880,36 +3880,36 @@
         "group_title": "PORTUGAL",
         "tvg_id": "SPORT.TV1.HD.pt",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sport-tv-1-portugal.png",
-        "channel_url": "https://dlhd.click/cast/stream-49.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium49/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-49.php",
+        "stream_url": "https://top2new.newkso.ru/top2/eplayerSPORTTV1/mono.m3u8"
     },
     "Sport TV2 Portugal": {
         "group_title": "PORTUGAL",
         "tvg_id": "SPORT.TV2.HD.pt",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sport-tv-2-portugal.png",
-        "channel_url": "https://dlhd.click/cast/stream-74.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium74/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-74.php",
+        "stream_url": "https://top2new.newkso.ru/top2/eplayerSPORTTV2/mono.m3u8"
     },
     "Sport TV3 Portugal": {
         "group_title": "PORTUGAL",
         "tvg_id": "SPORT.TV3.HD.pt",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sport-tv-3-portugal.png",
-        "channel_url": "https://dlhd.click/cast/stream-454.php",
-        "stream_url": "https://ddy6new.newkso.ru/ddy6/premium454/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-454.php",
+        "stream_url": "https://top2new.newkso.ru/top2/eplayerSPORTTV3/mono.m3u8"
     },
     "Sport TV4 Portugal": {
         "group_title": "PORTUGAL",
         "tvg_id": "SPORT.TV4.HD.pt",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sport-tv-4-portugal.png",
-        "channel_url": "https://dlhd.click/cast/stream-289.php",
-        "stream_url": "https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-289.php",
+        "stream_url": "https://top2new.newkso.ru/top2/eplayerSPORTTV5/mono.m3u8"
     },
     "Sport TV5 Portugal": {
         "group_title": "PORTUGAL",
         "tvg_id": "SPORT.TV5.HD.pt",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sport-tv-5-portugal.png",
-        "channel_url": "https://dlhd.click/cast/stream-290.php",
-        "stream_url": "https://ddy6new.newkso.ru/ddy6/premium290/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-290.php",
+        "stream_url": "https://top2new.newkso.ru/top2/eplayerSPORTTV5/mono.m3u8"
     },
     "Sport TV6 Portugal": {
         "group_title": "PORTUGAL",
@@ -3964,43 +3964,43 @@
         "group_title": "CANADA",
         "tvg_id": "Sportsnet.360.ca",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sportsnet-360.png",
-        "channel_url": "https://dlhd.click/cast/stream-409.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium409/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-409.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/primasportsnet360/mono.m3u8"
     },
     "Sportsnet East": {
         "group_title": "CANADA",
         "tvg_id": "Sportsnet.(East).-.Satellite/Digital.ca",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sportsnet-east.png",
-        "channel_url": "https://dlhd.click/cast/stream-408.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium408/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-408.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/sportsneteast/mono.m3u8"
     },
     "Sportsnet One": {
         "group_title": "CANADA",
         "tvg_id": "Sportsnet.One.ca",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sportsnet-one.png",
-        "channel_url": "https://dlhd.click/cast/stream-411.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium411/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-411.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/primasportsnetone/mono.m3u8"
     },
     "Sportsnet Ontario": {
         "group_title": "UNITED STATES",
         "tvg_id": "Sportsnet.(Ontario).ca",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sportsnet-ontario.png",
-        "channel_url": "https://dlhd.click/cast/stream-406.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium406/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-406.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/sportsnetont/mono.m3u8"
     },
     "Sportsnet West": {
         "group_title": "UNITED STATES",
         "tvg_id": "Sportsnet.(West).-.Satellite/Digital.ca",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sportsnet-west.png",
-        "channel_url": "https://dlhd.click/cast/stream-407.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium407/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-407.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/primasportsnetwest/mono.m3u8"
     },
     "Sportsnet World": {
         "group_title": "UNITED STATES",
         "tvg_id": "Sportsnet.World.ca",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sportsnet-world.png",
-        "channel_url": "https://dlhd.click/cast/stream-410.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium410/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-410.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/primasportsnetworld/mono.m3u8"
     },
     "Star Channel (FOX HD Bulgaria)": {
         "group_title": "BULGARIA",
@@ -4069,8 +4069,8 @@
         "group_title": "SOUTH AFRICA",
         "tvg_id": "test",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/supersport-cricket.png",
-        "channel_url": "https://dlhd.click/cast/stream-368.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium368/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-368.php",
+        "stream_url": "https://x4new.newkso.ru/x4/eplayerSuperSportCricket/mono.m3u8"
     },
     "SuperSport Golf": {
         "group_title": "SOUTH AFRICA",
@@ -4083,15 +4083,15 @@
         "group_title": "SOUTH AFRICA",
         "tvg_id": "test",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/supersport-grandstand.png",
-        "channel_url": "https://dlhd.click/cast/stream-412.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium412/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-412.php",
+        "stream_url": "https://x4new.newkso.ru/x4/eplayerSupersportGrandstand/mono.m3u8"
     },
     "SuperSport LaLiga": {
         "group_title": "SOUTH AFRICA",
         "tvg_id": "test",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/supersport-laliga.png",
-        "channel_url": "https://dlhd.click/cast/stream-415.php",
-        "stream_url": "https://ddy6new.newkso.ru/ddy6/premium415/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-415.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/eplayerSuperSportLaLiga/mono.m3u8"
     },
     "SuperSport MaXimo 1": {
         "group_title": "SOUTH AFRICA",
@@ -4104,22 +4104,22 @@
         "group_title": "RUSSIA",
         "tvg_id": "test",
         "tvg_logo": "https://example.com/example.png",
-        "channel_url": "https://dlhd.click/cast/stream-424.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium424/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-424.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/eplayerSuperSportMotorsport/mono.m3u8"
     },
     "SuperSport PSL": {
         "group_title": "SOUTH AFRICA",
         "tvg_id": "test",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/supersport-psl.png",
-        "channel_url": "https://dlhd.click/cast/stream-413.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium413/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-413.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/eplayerSuperSportPSL/mono.m3u8"
     },
     "SuperSport Premier league": {
         "group_title": "SOUTH AFRICA",
         "tvg_id": "test",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/supersport-premier-league.png",
-        "channel_url": "https://dlhd.click/cast/stream-414.php",
-        "stream_url": "https://ddy6new.newkso.ru/ddy6/premium414/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-414.php",
+        "stream_url": "https://x4new.newkso.ru/x4/eplayerSuperSportPL/mono.m3u8"
     },
     "SuperSport Rugby": {
         "group_title": "SOUTH AFRICA",
@@ -4178,8 +4178,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "TBS.-.East.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tbs-usa.png",
-        "channel_url": "https://dlhd.click/cast/stream-336.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium336/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-336.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/tbs/mono.m3u8"
     },
     "TCM USA": {
         "group_title": "UNITED STATES",
@@ -4220,29 +4220,29 @@
         "group_title": "UNITED KINGDOM",
         "tvg_id": "TNT.Sports.1.HD.uk",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tnt-sports-1-uk.png",
-        "channel_url": "https://dlhd.click/cast/stream-31.php",
-        "stream_url": "https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-31.php",
+        "stream_url": "https://azonew.newkso.ru/azo/eplayerdigitvbt1/mono.m3u8"
     },
     "TNT Sports 2 UK": {
         "group_title": "UNITED KINGDOM",
         "tvg_id": "TNT.Sports.2.HD.uk",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tnt-sports-2-uk.png",
-        "channel_url": "https://dlhd.click/cast/stream-32.php",
-        "stream_url": "https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-32.php",
+        "stream_url": "https://azonew.newkso.ru/azo/eplayerdigitvbt2/mono.m3u8"
     },
     "TNT Sports 3 UK": {
         "group_title": "UNITED KINGDOM",
         "tvg_id": "TNT.Sports.3.HD.uk",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tnt-sports-3-uk.png",
-        "channel_url": "https://dlhd.click/cast/stream-33.php",
-        "stream_url": "https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-33.php",
+        "stream_url": "https://azonew.newkso.ru/azo/eplayerdigitvbt3/mono.m3u8"
     },
     "TNT Sports 4 UK": {
         "group_title": "UNITED KINGDOM",
         "tvg_id": "TNT.Sports.4.HD.uk",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tnt-sports-4-uk.png",
-        "channel_url": "https://dlhd.click/cast/stream-34.php",
-        "stream_url": "https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-34.php",
+        "stream_url": "https://azonew.newkso.ru/azo/eplayerdigitvbt4/mono.m3u8"
     },
     "TNT Sports Argentina": {
         "group_title": "ARGENTINA",
@@ -4262,50 +4262,50 @@
         "group_title": "UNITED STATES",
         "tvg_id": "TNT.-.Eastern.Feed.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tnt-usa.png",
-        "channel_url": "https://dlhd.click/cast/stream-338.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium338/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-338.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvtnt/mono.m3u8"
     },
     "TSN1": {
         "group_title": "CANADA",
         "tvg_id": "TSN1.ca",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tsn1.png",
-        "channel_url": "https://dlhd.click/cast/stream-111.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium111/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-111.php",
+        "stream_url": "https://x4new.newkso.ru/x4/eplayerTSN_1_HD/mono.m3u8"
     },
     "TSN2": {
         "group_title": "CANADA",
         "tvg_id": "TSN2.ca",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tsn2.png",
-        "channel_url": "https://dlhd.click/cast/stream-112.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium112/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-112.php",
+        "stream_url": "https://x4new.newkso.ru/x4/eplayerTSN_2_HD/mono.m3u8"
     },
     "TSN3": {
         "group_title": "CANADA",
         "tvg_id": "TSN3.ca",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tsn3.png",
-        "channel_url": "https://dlhd.click/cast/stream-113.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium113/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-113.php",
+        "stream_url": "https://x4new.newkso.ru/x4/eplayerTSN_3_HD/mono.m3u8"
     },
     "TSN4": {
         "group_title": "CANADA",
         "tvg_id": "TSN4.ca",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tsn4.png",
-        "channel_url": "https://dlhd.click/cast/stream-114.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium114/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-114.php",
+        "stream_url": "https://x4new.newkso.ru/x4/eplayerTSN_4_HD/mono.m3u8"
     },
     "TSN5": {
         "group_title": "CANADA",
         "tvg_id": "TSN5.ca",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tsn5.png",
-        "channel_url": "https://dlhd.click/cast/stream-115.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium115/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-115.php",
+        "stream_url": "https://x4new.newkso.ru/x4/eplayerTSN_5_HD/mono.m3u8"
     },
     "TUDN USA": {
         "group_title": "UNITED STATES",
         "tvg_id": "TUDN.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tudn-usa.png",
-        "channel_url": "https://dlhd.click/cast/stream-66.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium66/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-66.php",
+        "stream_url": "https://top2new.newkso.ru/top2/tudnusa/mono.m3u8"
     },
     "TV ONE USA": {
         "group_title": "UNITED STATES",
@@ -4514,8 +4514,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "The.Tennis.Channel.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/tennis-channel-us.png",
-        "channel_url": "https://dlhd.click/cast/stream-40.php",
-        "stream_url": "https://ddy6new.newkso.ru/ddy6/premium40/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-40.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/tennisch/mono.m3u8"
     },
     "Tennis+ 1": {
         "group_title": "FRANCE",
@@ -4612,8 +4612,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "Food.Network.USA.-.Eastern.Feed.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/the-food-network-us.png",
-        "channel_url": "https://dlhd.click/cast/stream-384.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium384/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-384.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvfoodnetwork/mono.m3u8"
     },
     "The Hallmark Channel": {
         "group_title": "UNITED STATES",
@@ -4647,8 +4647,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "USA.Network.-.East.Feed.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/usa-network.png",
-        "channel_url": "https://dlhd.click/cast/stream-343.php",
-        "stream_url": "https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-343.php",
+        "stream_url": "https://x4new.newkso.ru/x4/usanetwork/mono.m3u8"
     },
     "Unimas": {
         "group_title": "UNITED STATES",
@@ -4766,8 +4766,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "WWE.Network.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/wwe-network.png",
-        "channel_url": "https://dlhd.click/cast/stream-376.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium376/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-376.php",
+        "stream_url": "https://hztnew.newkso.ru/hzt/ustvwwe/mono.m3u8"
     },
     "Willow Cricket": {
         "group_title": "UNITED STATES",
@@ -4780,15 +4780,15 @@
         "group_title": "UNITED STATES",
         "tvg_id": "Willow.Xtra.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/willow-xtra-us.png",
-        "channel_url": "https://dlhd.click/cast/stream-598.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium598/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-598.php",
+        "stream_url": "https://x4new.newkso.ru/x4/willowxtra/mono.m3u8"
     },
     "Win Sports+ Columbia": {
         "group_title": "COLUMBIA",
         "tvg_id": "test",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/win-sportsplus-columbia.png",
-        "channel_url": "https://dlhd.click/cast/stream-392.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium392/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-392.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/winsportsplus /mono.m3u8"
     },
     "YES Network USA": {
         "group_title": "UNITED STATES",
@@ -4892,8 +4892,8 @@
         "group_title": "FRANCE",
         "tvg_id": "beIN.SPORTS.1.fr",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/bein-sports-1-france.png",
-        "channel_url": "https://dlhd.click/cast/stream-116.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium116/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-116.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/beinsport1fr/mono.m3u8"
     },
     "beIN SPORTS 1 Turkey": {
         "group_title": "TURKEY",
