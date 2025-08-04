@@ -625,8 +625,8 @@
         "group_title": "PORTUGAL",
         "tvg_id": "Canal.11.HD.pt",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/porto-canal-portugal.png",
-        "channel_url": "https://dlhd.click/cast/stream-540.php",
-        "stream_url": "https://ddy6new.newkso.ru/ddy6/premium540/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-540.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/canal11/mono.m3u8"
     },
     "Canal+ Family Poland": {
         "group_title": "POLAND",
@@ -1962,8 +1962,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "History.Channel.US.-.Eastern.Feed.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/history-usa.png",
-        "channel_url": "https://dlhd.click/cast/stream-322.php",
-        "stream_url": "https://nfsnew.newkso.ru/nfs/premium322/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-322.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvhistory/mono.m3u8"
     },
     "IFC TV USA": {
         "group_title": "UNITED STATES",
@@ -2011,8 +2011,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "Investigation.Discovery.USA.-.Eastern.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/investigation-discovery.png",
-        "channel_url": "https://dlhd.click/cast/stream-324.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium324/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-324.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvinvestigationdiscovery/mono.m3u8"
     },
     "Italia 1 Italy": {
         "group_title": "ITALY",
@@ -3047,8 +3047,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "SEC.Network.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sec-network-usa.png",
-        "channel_url": "https://dlhd.click/cast/stream-385.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium385/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-385.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/eplayerSECNetwork/mono.m3u8"
     },
     "SEE Denmark": {
         "group_title": "DENMARK",
@@ -4062,8 +4062,8 @@
         "group_title": "SOUTH AFRICA",
         "tvg_id": "test",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/supersport-action.png",
-        "channel_url": "https://dlhd.click/cast/stream-420.php",
-        "stream_url": "https://windnew.newkso.ru/wind/premium420/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-420.php",
+        "stream_url": "https://x4new.newkso.ru/x4/eplayerSuperSportAction/mono.m3u8"
     },
     "SuperSport Cricket": {
         "group_title": "SOUTH AFRICA",
