@@ -464,8 +464,12 @@
         "group_title": "UNITED STATES",
         "tvg_id": "Boomerang.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/boomerang.png",
-        "channel_url": "https://dlhd.click/cast/stream-648.php",
-        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium648/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-648.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/ustvboom/mono.m3u8",
+        "options": [
+            "#EXTVLCOPT:http-origin=https://topembed.pw",
+            "#EXTVLCOPT:http-referrer=https://topembed.pw/"
+        ]
     },
     "Bravo USA": {
         "group_title": "UNITED STATES",
@@ -3153,7 +3157,7 @@
         "tvg_id": "Science.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/science-channel.png",
         "channel_url": "https://dlhd.click/cast/stream-294.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium294/mono.m3u8"
+        "stream_url": "https://nfsnew.newkso.ru/nfs/premium294/mono.m3u8"
     },
     "Showtime 2 USA (SHO2) USA": {
         "group_title": "UNITED STATES",
@@ -3257,7 +3261,7 @@
         "group_title": "ITALY",
         "tvg_id": "Sky.Sport..255.it",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-calcio-5.png",
-        "channel_url": "https://dlhd.click/stream/stream-875.php",
+        "channel_url": "https://dlhd.click/cast/stream-875.php",
         "stream_url": "https://windnew.newkso.ru/wind/premium875/mono.m3u8"
     },
     "Sky Calcio 6 (256) Italy": {
