@@ -388,7 +388,7 @@ https://dokko1new.newkso.ru/dokko1/premium380/mono.m3u8
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://wikinew.newkso.ru/wiki/ustvboom/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium648/mono.m3u8
 
 #EXTINF:-1 group-title="UNITED STATES" tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/bravo.png",Bravo USA
 #EXTVLCOPT:http-origin=https://jxoplay.xyz
@@ -3090,12 +3090,6 @@ https://ddy6new.newkso.ru/ddy6/premium461/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 https://nfsnew.newkso.ru/nfs/premium37/mono.m3u8
 
-#EXTINF:-1 group-title="UNITED KINGDOM" tvg-id="SkySportsArena.uk" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-arena-uk.png",Sky Sports Arena UK
-#EXTVLCOPT:http-origin=https://jxoplay.xyz
-#EXTVLCOPT:http-referrer=https://jxoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://zekonew.newkso.ru/zeko/premium36/mono.m3u8
-
 #EXTINF:-1 group-title="UNITED KINGDOM" tvg-id="SkySp.Cricket.uk" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-cricket-uk.png",Sky Sports Cricket
 #EXTVLCOPT:http-origin=https://jxoplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoplay.xyz/
@@ -3173,6 +3167,12 @@ https://windnew.newkso.ru/wind/premium884/mono.m3u8
 #EXTVLCOPT:http-referrer=https://jxoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 https://windnew.newkso.ru/wind/premium46/mono.m3u8
+
+#EXTINF:-1 group-title="UNITED KINGDOM" tvg-id="SkySportsArena.uk" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-arena-uk.png",Sky Sports+ Plus
+#EXTVLCOPT:http-origin=https://jxoplay.xyz
+#EXTVLCOPT:http-referrer=https://jxoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://zekonew.newkso.ru/zeko/premium36/mono.m3u8
 
 #EXTINF:-1 group-title="ITALY" tvg-id="Sky.Uno.it" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-uno-it.png",Sky UNO Italy
 #EXTVLCOPT:http-origin=https://jxoplay.xyz
@@ -3505,10 +3505,10 @@ https://ddy6new.newkso.ru/ddy6/premium415/mono.m3u8
 https://dokko1new.newkso.ru/dokko1/premium572/mono.m3u8
 
 #EXTINF:-1 group-title="RUSSIA" tvg-id="test" tvg-logo="https://example.com/example.png",SuperSport Motorsport
-#EXTVLCOPT:http-origin=https://jxoplay.xyz
-#EXTVLCOPT:http-referrer=https://jxoplay.xyz/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://zekonew.newkso.ru/zeko/premium424/mono.m3u8
+https://wikinew.newkso.ru/wiki/eplayerSuperSportMotorsport/mono.m3u8
 
 #EXTINF:-1 group-title="SOUTH AFRICA" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/supersport-psl.png",SuperSport PSL
 #EXTVLCOPT:http-origin=https://jxoplay.xyz

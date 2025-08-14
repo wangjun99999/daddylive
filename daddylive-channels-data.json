@@ -464,8 +464,8 @@
         "group_title": "UNITED STATES",
         "tvg_id": "Boomerang.us",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/boomerang.png",
-        "channel_url": "https://dlhd.click/watch/stream-648.php",
-        "stream_url": "https://wikinew.newkso.ru/wiki/ustvboom/mono.m3u8",
+        "channel_url": "https://dlhd.click/cast/stream-648.php",
+        "stream_url": "https://dokko1new.newkso.ru/dokko1/premium648/mono.m3u8",
         "options": [
             "#EXTVLCOPT:http-origin=https://topembed.pw",
             "#EXTVLCOPT:http-referrer=https://topembed.pw/"
@@ -3621,13 +3621,6 @@
         "channel_url": "https://dlhd.click/cast/stream-37.php",
         "stream_url": "https://nfsnew.newkso.ru/nfs/premium37/mono.m3u8"
     },
-    "Sky Sports Arena UK": {
-        "group_title": "UNITED KINGDOM",
-        "tvg_id": "SkySportsArena.uk",
-        "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-arena-uk.png",
-        "channel_url": "https://dlhd.click/cast/stream-36.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium36/mono.m3u8"
-    },
     "Sky Sports Cricket": {
         "group_title": "UNITED KINGDOM",
         "tvg_id": "SkySp.Cricket.uk",
@@ -3718,6 +3711,13 @@
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-tennis-uk.png",
         "channel_url": "https://dlhd.click/cast/stream-46.php",
         "stream_url": "https://windnew.newkso.ru/wind/premium46/mono.m3u8"
+    },
+    "Sky Sports+ Plus": {
+        "group_title": "UNITED KINGDOM",
+        "tvg_id": "SkySportsArena.uk",
+        "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-arena-uk.png",
+        "channel_url": "https://dlhd.click/cast/stream-36.php",
+        "stream_url": "https://zekonew.newkso.ru/zeko/premium36/mono.m3u8"
     },
     "Sky UNO Italy": {
         "group_title": "ITALY",
@@ -4108,8 +4108,12 @@
         "group_title": "RUSSIA",
         "tvg_id": "test",
         "tvg_logo": "https://example.com/example.png",
-        "channel_url": "https://dlhd.click/cast/stream-424.php",
-        "stream_url": "https://zekonew.newkso.ru/zeko/premium424/mono.m3u8"
+        "channel_url": "https://dlhd.click/watch/stream-424.php",
+        "stream_url": "https://wikinew.newkso.ru/wiki/eplayerSuperSportMotorsport/mono.m3u8",
+        "options": [
+            "#EXTVLCOPT:http-origin=https://topembed.pw",
+            "#EXTVLCOPT:http-referrer=https://topembed.pw/"
+        ]
     },
     "SuperSport PSL": {
         "group_title": "SOUTH AFRICA",

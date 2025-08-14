@@ -193,7 +193,7 @@ https://windnew.newkso.ru/wind/premium578/mono.m3u8|Origin=https://jxoplay.xyz|R
 https://dokko1new.newkso.ru/dokko1/premium380/mono.m3u8|Origin=https://jxoplay.xyz|Referrer=https://jxoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="UNITED STATES" tvg-id="Boomerang.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/boomerang.png",Boomerang
-https://wikinew.newkso.ru/wiki/ustvboom/mono.m3u8|Origin=https://topembed.pw|Referrer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://dokko1new.newkso.ru/dokko1/premium648/mono.m3u8|Origin=https://topembed.pw|Referrer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="UNITED STATES" tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/bravo.png",Bravo USA
 https://nfsnew.newkso.ru/nfs/premium307/mono.m3u8|Origin=https://jxoplay.xyz|Referrer=https://jxoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
@@ -1545,9 +1545,6 @@ https://ddy6new.newkso.ru/ddy6/premium461/mono.m3u8|Origin=https://jxoplay.xyz|R
 #EXTINF:-1 group-title="UNITED KINGDOM" tvg-id="SkySp.Action.uk" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-action-uk.png",Sky Sports Action UK
 https://nfsnew.newkso.ru/nfs/premium37/mono.m3u8|Origin=https://jxoplay.xyz|Referrer=https://jxoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="UNITED KINGDOM" tvg-id="SkySportsArena.uk" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-arena-uk.png",Sky Sports Arena UK
-https://zekonew.newkso.ru/zeko/premium36/mono.m3u8|Origin=https://jxoplay.xyz|Referrer=https://jxoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-
 #EXTINF:-1 group-title="UNITED KINGDOM" tvg-id="SkySp.Cricket.uk" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-cricket-uk.png",Sky Sports Cricket
 https://dokko1new.newkso.ru/dokko1/premium65/mono.m3u8|Origin=https://jxoplay.xyz|Referrer=https://jxoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
@@ -1586,6 +1583,9 @@ https://windnew.newkso.ru/wind/premium884/mono.m3u8|Origin=https://jxoplay.xyz|R
 
 #EXTINF:-1 group-title="UNITED KINGDOM" tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-tennis-uk.png",Sky Sports Tennis UK
 https://windnew.newkso.ru/wind/premium46/mono.m3u8|Origin=https://jxoplay.xyz|Referrer=https://jxoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+#EXTINF:-1 group-title="UNITED KINGDOM" tvg-id="SkySportsArena.uk" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-sports-arena-uk.png",Sky Sports+ Plus
+https://zekonew.newkso.ru/zeko/premium36/mono.m3u8|Origin=https://jxoplay.xyz|Referrer=https://jxoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="ITALY" tvg-id="Sky.Uno.it" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-uno-it.png",Sky UNO Italy
 https://windnew.newkso.ru/wind/premium881/mono.m3u8|Origin=https://jxoplay.xyz|Referrer=https://jxoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
@@ -1753,7 +1753,7 @@ https://ddy6new.newkso.ru/ddy6/premium415/mono.m3u8|Origin=https://jxoplay.xyz|R
 https://dokko1new.newkso.ru/dokko1/premium572/mono.m3u8|Origin=https://jxoplay.xyz|Referrer=https://jxoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="RUSSIA" tvg-id="test" tvg-logo="https://example.com/example.png",SuperSport Motorsport
-https://zekonew.newkso.ru/zeko/premium424/mono.m3u8|Origin=https://jxoplay.xyz|Referrer=https://jxoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://wikinew.newkso.ru/wiki/eplayerSuperSportMotorsport/mono.m3u8|Origin=https://topembed.pw|Referrer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="SOUTH AFRICA" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/supersport-psl.png",SuperSport PSL
 https://zekonew.newkso.ru/zeko/premium413/mono.m3u8|Origin=https://jxoplay.xyz|Referrer=https://jxoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
