@@ -426,7 +426,7 @@ https://windnew.newkso.ru/wind/premium750/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
 
-#EXTINF:-1 group-title="POLAND" tvg-id="CANAL+.Sport.5.pl" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/canal-plus-sport-5.png",CANAL+ SPORT 5 Poland
+#EXTINF:-1 group-title="POLAND" tvg-id="CANAL+.Sport.5.HD.pl" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/canal-plus-sport-5.png",CANAL+ SPORT 5 Poland
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
@@ -576,7 +576,7 @@ https://ddy6new.newkso.ru/ddy6/premium486/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 https://ddy6new.newkso.ru/ddy6/premium487/mono.m3u8
 
-#EXTINF:-1 group-title="POLAND" tvg-id="CANAL+.Sport.2.pl" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/canal-plus-sport-2-poland.png",Canal+ Sport 2 Poland
+#EXTINF:-1 group-title="POLAND" tvg-id="CANAL+.Sport.2.HD.pl" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/canal-plus-sport-2-poland.png",Canal+ Sport 2 Poland
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
@@ -587,6 +587,12 @@ https://ddy6new.newkso.ru/ddy6/premium73/mono.m3u8
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 https://ddy6new.newkso.ru/ddy6/premium488/mono.m3u8
+
+#EXTINF:-1 group-title="POLAND" tvg-id="CANAL+.Sport.3.HD.pl" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/canal-plus-sport-3-poland.png",Canal+ Sport 3 Poland
+#EXTVLCOPT:http-origin=https://jxoxkplay.xyz
+#EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://windnew.newkso.ru/wind/premium259/mono.m3u8
 
 #EXTINF:-1 group-title="AFRICA" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/canal-plus-sport-4-afrique.png",Canal+ Sport 4 Afrique
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
@@ -606,7 +612,7 @@ https://ddy6new.newkso.ru/ddy6/premium490/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 https://windnew.newkso.ru/wind/premium122/mono.m3u8
 
-#EXTINF:-1 group-title="POLAND" tvg-id="CANAL+.Sport.pl" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/canal-plus-sport-poland.png",Canal+ Sport Poland
+#EXTINF:-1 group-title="POLAND" tvg-id="CANAL+.Sport.HD.pl" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/canal-plus-sport-poland.png",Canal+ Sport Poland
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
@@ -3508,7 +3514,7 @@ https://dokko1new.newkso.ru/dokko1/premium572/mono.m3u8
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://wikinew.newkso.ru/wiki/eplayerSuperSportMotorsport/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium424/mono.m3u8
 
 #EXTINF:-1 group-title="SOUTH AFRICA" tvg-id="test" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/supersport-psl.png",SuperSport PSL
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz

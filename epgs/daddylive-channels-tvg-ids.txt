@@ -287,7 +287,7 @@ TV3plus(src01).dk
 Hallmark.-.Eastern.Feed.us
 Telecinco.es
 yes.Movies.Comedy.il
-CANAL+.Sport.5.pl
+CANAL+.Sport.5.HD.pl
 AdultSwim.com.Cartoon.Network.us
 TNT.-.Eastern.Feed.us
 Sportsnet.360.ca
@@ -447,7 +447,7 @@ TSN5.ca
 Sky.Cinema.Suspense.it
 Ring.BG.bg
 Sky.Cinema.Uno.+24.it
-CANAL+.Sport.2.pl
+CANAL+.Sport.2.HD.pl
 CBS.(WCBS).New.York,.NY.us
 Cytavision.Sports6.HD.cy
 Sky.Sport.Calcio.it
@@ -570,7 +570,7 @@ Digi.Sport.3.ro
 NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us
 HGTV.USA.-.Eastern.Feed.us
 sportdigital.de
-CANAL+.Sport.pl
+CANAL+.Sport.HD.pl
 MovistarGolf(Spanish).es
 NBC.(WNBC).New.York,.NY.us   
 Sky.Sport..251.it
@@ -596,3 +596,4 @@ Ziggo.Sport.6.nl
 ABC.NEWS.us
 Sky.Cinema.Due.+24.it
 Sky.Uno.it
+CANAL+.Sport.3.HD.pl

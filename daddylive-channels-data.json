@@ -515,7 +515,7 @@
     },
     "CANAL+ SPORT 5 Poland": {
         "group_title": "POLAND",
-        "tvg_id": "CANAL+.Sport.5.pl",
+        "tvg_id": "CANAL+.Sport.5.HD.pl",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/canal-plus-sport-5.png",
         "channel_url": "https://dlhd.click/cast/stream-75.php",
         "stream_url": "https://windnew.newkso.ru/wind/premium75/mono.m3u8"
@@ -690,7 +690,7 @@
     },
     "Canal+ Sport 2 Poland": {
         "group_title": "POLAND",
-        "tvg_id": "CANAL+.Sport.2.pl",
+        "tvg_id": "CANAL+.Sport.2.HD.pl",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/canal-plus-sport-2-poland.png",
         "channel_url": "https://dlhd.click/cast/stream-73.php",
         "stream_url": "https://ddy6new.newkso.ru/ddy6/premium73/mono.m3u8"
@@ -701,6 +701,13 @@
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/canal-plus-sport-3-afrique.png",
         "channel_url": "https://dlhd.click/stream/stream-488.php",
         "stream_url": "https://ddy6new.newkso.ru/ddy6/premium488/mono.m3u8"
+    },
+    "Canal+ Sport 3 Poland": {
+        "group_title": "POLAND",
+        "tvg_id": "CANAL+.Sport.3.HD.pl",
+        "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/canal-plus-sport-3-poland.png",
+        "channel_url": "https://dlhd.click/cast/stream-259.php",
+        "stream_url": "https://windnew.newkso.ru/wind/premium259/mono.m3u8"
     },
     "Canal+ Sport 4 Afrique": {
         "group_title": "AFRICA",
@@ -725,7 +732,7 @@
     },
     "Canal+ Sport Poland": {
         "group_title": "POLAND",
-        "tvg_id": "CANAL+.Sport.pl",
+        "tvg_id": "CANAL+.Sport.HD.pl",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/canal-plus-sport-poland.png",
         "channel_url": "https://dlhd.click/cast/stream-48.php",
         "stream_url": "https://nfsnew.newkso.ru/nfs/premium48/mono.m3u8"
@@ -3240,7 +3247,7 @@
         "group_title": "ITALY",
         "tvg_id": "Sky.Sport..252.it",
         "tvg_logo": "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/sky-calcio-2.png",
-        "channel_url": "https://dlhd.click/cast/stream-872.php",
+        "channel_url": "https://dlhd.click/stream/stream-872.php",
         "stream_url": "https://windnew.newkso.ru/wind/premium872/mono.m3u8"
     },
     "Sky Calcio 3 (253) Italy": {
@@ -4108,8 +4115,8 @@
         "group_title": "RUSSIA",
         "tvg_id": "test",
         "tvg_logo": "https://example.com/example.png",
-        "channel_url": "https://dlhd.click/watch/stream-424.php",
-        "stream_url": "https://wikinew.newkso.ru/wiki/eplayerSuperSportMotorsport/mono.m3u8",
+        "channel_url": "https://dlhd.click/cast/stream-424.php",
+        "stream_url": "https://zekonew.newkso.ru/zeko/premium424/mono.m3u8",
         "options": [
             "#EXTVLCOPT:http-origin=https://topembed.pw",
             "#EXTVLCOPT:http-referrer=https://topembed.pw/"
