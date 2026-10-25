@@ -10457,102 +10457,6 @@
     <url>http://www.clarotvmais.com.br</url>
     <display-name lang="pt">ESPN</display-name>
   </channel>
-  <programme channel="ESPN.br" start="20261024040000 +0000" stop="20261024060000 +0000">
-    <title lang="pt">VT - Flamengo x Estudiantes</title>
-    <desc lang="pt">A verdadeira obsessão dos clubes da América do Sul! Os melhores times e as estrelas do continente se enfrentam para conquistar o troféu e a glória eterna.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001558445_epg.jpg" />
-  </programme>
-  <programme channel="ESPN.br" start="20261024060000 +0000" stop="20261024063000 +0000">
-    <title lang="pt">Premier League Stories</title>
-    <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000944327_epg.jpg" />
-    <rating system="BR">
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme channel="ESPN.br" start="20261024063000 +0000" stop="20261024083000 +0000">
-    <title lang="pt">VT - Bolton Wanderers x Middlesbrough</title>
-    <desc lang="pt">A segunda divisão inglesa é disputada por 24 clubes que querem conquistar uma das vagas para competir na tão sonhada Premier League.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572923_epg.jpg" />
-  </programme>
-  <programme channel="ESPN.br" start="20261024083000 +0000" stop="20261024102000 +0000">
-    <title lang="pt">VT - Ipswich x Nottingham Forest</title>
-    <desc lang="pt">Grandes craques, técnicos de renome, torcedores tradicionais e muitos outros personagens reunidos: é a maior liga de futebol do mundo! Sinta a paixão e a emoção de cada jogo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572876_epg.jpg" />
-  </programme>
-  <programme channel="ESPN.br" start="20261024102000 +0000" stop="20261024112000 +0000">
-    <title lang="pt">Sportscenter</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
-    <episode-num system="onscreen">S87 E297</episode-num>
-  </programme>
-  <programme channel="ESPN.br" start="20261024112000 +0000" stop="20261024133000 +0000">
-    <title lang="pt">Aston Villa x Manchester City - Ao Vivo</title>
-    <desc lang="pt">Grandes craques, técnicos de renome, torcedores e muitos outros personagens reunidos: é impossível caminhar sozinho. Sinta a paixão e a emoção de cada jogo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572937_epg.jpg" />
-  </programme>
-  <programme channel="ESPN.br" start="20261024133000 +0000" stop="20261024135000 +0000">
-    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
-    <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000073469_epg.jpg" />
-    <episode-num system="onscreen">S80 E297</episode-num>
-  </programme>
-  <programme channel="ESPN.br" start="20261024135000 +0000" stop="20261024160000 +0000">
-    <title lang="pt">Arsenal x Everton - Ao Vivo</title>
-    <desc lang="pt">Grandes craques, técnicos de renome, torcedores e muitos outros personagens reunidos: é impossível caminhar sozinho. Sinta a paixão e a emoção de cada jogo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572935_epg.jpg" />
-  </programme>
-  <programme channel="ESPN.br" start="20261024160000 +0000" stop="20261024162000 +0000">
-    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
-    <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000073469_epg.jpg" />
-    <episode-num system="onscreen">S83 E297</episode-num>
-  </programme>
-  <programme channel="ESPN.br" start="20261024162000 +0000" stop="20261024183000 +0000">
-    <title lang="pt">Chelsea x Tottenham Hotspur - Ao Vivo</title>
-    <desc lang="pt">Grandes craques, técnicos de renome, torcedores tradicionais e muitos outros personagens reunidos: é a maior liga de futebol do mundo! Sinta a paixão e a emoção de cada jogo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572915_epg.jpg" />
-  </programme>
-  <programme channel="ESPN.br" start="20261024183000 +0000" stop="20261024191500 +0000">
-    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
-    <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000073469_epg.jpg" />
-    <episode-num system="onscreen">S85 E297</episode-num>
-  </programme>
-  <programme channel="ESPN.br" start="20261024191500 +0000" stop="20261024212500 +0000">
-    <title lang="pt">Atlético-GO x Novorizontino - Ao Vivo</title>
-    <desc lang="pt">Emoção até a última rodada! Acompanhe a disputa de 20 clubes para chegar à elite do futebol brasileiro! A melhor cobertura e transmissão você acompanha no Disney+.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572901_epg.jpg" />
-  </programme>
-  <programme channel="ESPN.br" start="20261024212500 +0000" stop="20261024233000 +0000">
-    <title lang="pt">Ponte Preta x Fortaleza - Ao Vivo</title>
-    <desc lang="pt">Emoção até a última rodada! Acompanhe a disputa de 20 clubes para chegar à elite do futebol brasileiro! A melhor cobertura e transmissão você acompanha no Disney+.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572905_epg.jpg" />
-  </programme>
-  <programme channel="ESPN.br" start="20261024233000 +0000" stop="20261025010000 +0000">
-    <title lang="pt">Linha de Passe: Mesa-Redonda - Ao Vivo</title>
-    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072891_epg.jpg" />
-    <episode-num system="onscreen">S80 E297</episode-num>
-  </programme>
-  <programme channel="ESPN.br" start="20261025010000 +0000" stop="20261025020000 +0000">
-    <title lang="pt">Bola da Vez: Damián Bobadilla</title>
-    <desc lang="pt">O principal programa de entrevistas dos canais ESPN recebe grandes nomes do esporte nacional e internacional, que respondem às perguntas da bancada de entrevistadores.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000073187_epg.jpg" />
-    <episode-num system="onscreen">S82 E297</episode-num>
-  </programme>
-  <programme channel="ESPN.br" start="20261025020000 +0000" stop="20261025030000 +0000">
-    <title lang="pt">Sportscenter - Ao Vivo</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
-    <episode-num system="onscreen">S83 E297</episode-num>
-  </programme>
-  <programme channel="ESPN.br" start="20261025030000 +0000" stop="20261025040000 +0000">
-    <title lang="pt">Bola da Vez: Damián Bobadilla</title>
-    <desc lang="pt">O principal programa de entrevistas dos canais ESPN recebe grandes nomes do esporte nacional e internacional, que respondem às perguntas da bancada de entrevistadores.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000073187_epg.jpg" />
-    <episode-num system="onscreen">S80 E298</episode-num>
-  </programme>
   <programme channel="ESPN.br" start="20261025040000 +0000" stop="20261025060000 +0000">
     <title lang="pt">VT - Arsenal x Everton</title>
     <desc lang="pt">Grandes craques, técnicos de renome, torcedores e muitos outros personagens reunidos: é impossível caminhar sozinho. Sinta a paixão e a emoção de cada jogo.</desc>
@@ -10849,127 +10753,81 @@
     <desc lang="pt">Torcidas apaixonadas e estádios vibrantes. O futebol turco é famoso pela garra, os grandes duelos e jogadores que dão tudo de si.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572912_epg.jpg" />
   </programme>
-  <programme channel="ESPN.2.br" start="20261024050000 +0000" stop="20261024075000 +0000">
-    <title lang="pt">VT - MLB: Tampa Bay Rays x Milwaukee Brewers</title>
-    <desc lang="pt">Os melhores jogadores do mundo estão na MLB, a maior liga profissional de beisebol do planeta. Da desafiadora temporada regular à emoção dos playoffs, acompanhe cada home run até a World Series, que coroa o campeão da...</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001586437_epg.jpg" />
-  </programme>
-  <programme channel="ESPN.2.br" start="20261024075000 +0000" stop="20261024085000 +0000">
-    <title lang="pt">Sportscenter</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
-    <episode-num system="onscreen">S84 E297</episode-num>
-  </programme>
-  <programme channel="ESPN.2.br" start="20261024085000 +0000" stop="20261024095000 +0000">
-    <title lang="pt">Sportscenter</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
-    <episode-num system="onscreen">S85 E297</episode-num>
-  </programme>
-  <programme channel="ESPN.2.br" start="20261024095000 +0000" stop="20261024105000 +0000">
-    <title lang="pt">ESPN League</title>
-    <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei).</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000082279_epg.jpg" />
-    <episode-num system="onscreen">S6 E297</episode-num>
-  </programme>
-  <programme channel="ESPN.2.br" start="20261024105000 +0000" stop="20261024115000 +0000">
-    <title lang="pt">Premier League Stories</title>
-    <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000944327_epg.jpg" />
-    <rating system="BR">
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme channel="ESPN.2.br" start="20261024115000 +0000" stop="20261024122000 +0000">
-    <title lang="pt">NBA Action</title>
-    <desc lang="pt">Notícias e destaques da liga de basquete mais importante do planeta. Os jogadores, as partidas e tudo o que você precisa saber sobre o mundo da NBA.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000096600_epg.jpg" />
-    <episode-num system="onscreen">S8 E297</episode-num>
-  </programme>
-  <programme channel="ESPN.2.br" start="20261024122000 +0000" stop="20261024125000 +0000">
-    <title lang="pt">Inside Serie A</title>
-    <desc lang="pt">Um programa para conhecer a fundo a primeira divisão do futebol italiano e saber tudo sobre cada rodada: histórias, entrevistas, estatísticas, curiosidades e muito mais!</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000105018_epg.jpg" />
-    <episode-num system="onscreen">S89 E297</episode-num>
-  </programme>
-  <programme channel="ESPN.2.br" start="20261024125000 +0000" stop="20261024150000 +0000">
-    <title lang="pt">Como x Sassuolo - Ao Vivo</title>
+  <programme channel="ESPN.br" start="20261028060000 +0000" stop="20261028080000 +0000">
+    <title lang="pt">VT - Torino x Como</title>
     <desc lang="pt">Histórias de heróis, anjos caídos e semideuses. Partidas lendárias disputadas até o último minuto em busca do título de melhor clube do país.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572962_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572927_epg.jpg" />
   </programme>
-  <programme channel="ESPN.2.br" start="20261024150000 +0000" stop="20261024170000 +0000">
-    <title lang="pt">VT - Sport x Criciúma</title>
-    <desc lang="pt">Emoção até a última rodada! Acompanhe a disputa de 20 clubes para chegar à elite do futebol brasileiro! A melhor cobertura e transmissão você acompanha no Disney+.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572908_epg.jpg" />
-  </programme>
-  <programme channel="ESPN.2.br" start="20261024170000 +0000" stop="20261024171500 +0000">
-    <title lang="pt">Momento CBTênis</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001446389_epg.jpg" />
-  </programme>
-  <programme channel="ESPN.2.br" start="20261024171500 +0000" stop="20261024173000 +0000">
-    <title lang="pt">Momento CBTênis</title>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001446389_epg.jpg" />
-  </programme>
-  <programme channel="ESPN.2.br" start="20261024173000 +0000" stop="20261024183000 +0000">
-    <title lang="pt">ESPN FIlmes: Saban</title>
-    <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000082278_epg.jpg" />
-    <episode-num system="onscreen">S14 E1</episode-num>
+  <programme channel="ESPN.br" start="20261028080000 +0000" stop="20261028090000 +0000">
+    <title lang="pt">Especial Rally dos Sertões: Cada Qual No Seu Tempo</title>
+    <desc lang="pt">Apresentadores, narradores e comentaristas lembram momentos marcantes das transmissões de futebol internacional dos canais ESPN.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572852_epg.jpg" />
     <rating system="BR">
       <value>1</value>
     </rating>
   </programme>
-  <programme channel="ESPN.2.br" start="20261024183000 +0000" stop="20261024204500 +0000">
-    <title lang="pt">Lazio x Parma - Ao Vivo</title>
-    <desc lang="pt">Histórias de heróis, anjos caídos e semideuses. Partidas lendárias disputadas até o último minuto em busca do título de melhor clube do país.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572997_epg.jpg" />
+  <programme channel="ESPN.br" start="20261028090000 +0000" stop="20261028110000 +0000">
+    <title lang="pt">VT - Borussia Dortmund x Werder Bremen</title>
+    <desc lang="pt">A Copa da Alemanha é o principal torneio mata-mata do futebol alemão. Sessenta e quatro clubes das principais divisões, além de campeões de ligas regionais, disputam o título e uma vaga na UEFA Europa League.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572840_epg.jpg" />
   </programme>
-  <programme channel="ESPN.2.br" start="20261024204500 +0000" stop="20261024210000 +0000">
-    <title lang="pt">Momento ESPN</title>
-    <desc lang="pt">Programas especiais com o melhor conteúdo dos canais ESPN. Entrevistas e matérias especiais feitas pelo melhor time do canal que mais entende de esporte.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000086150_epg.jpg" />
-    <episode-num system="onscreen">S17 E297</episode-num>
-    <rating system="BR">
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme channel="ESPN.2.br" start="20261024210000 +0000" stop="20261024213000 +0000">
-    <title lang="pt">NBA Action</title>
-    <desc lang="pt">Notícias e destaques da liga de basquete mais importante do planeta. Os jogadores, as partidas e tudo o que você precisa saber sobre o mundo da NBA.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000096600_epg.jpg" />
-    <episode-num system="onscreen">S18 E297</episode-num>
-  </programme>
-  <programme channel="ESPN.2.br" start="20261024213000 +0000" stop="20261024233000 +0000">
-    <title lang="pt">VT - Chelsea x Tottenham Hotspur</title>
-    <desc lang="pt">Grandes craques, técnicos de renome, torcedores tradicionais e muitos outros personagens reunidos: é a maior liga de futebol do mundo! Sinta a paixão e a emoção de cada jogo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572916_epg.jpg" />
-  </programme>
-  <programme channel="ESPN.2.br" start="20261024233000 +0000" stop="20261025000000 +0000">
-    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
-    <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000073469_epg.jpg" />
-    <episode-num system="onscreen">S80 E297</episode-num>
-  </programme>
-  <programme channel="ESPN.2.br" start="20261025000000 +0000" stop="20261025023000 +0000">
-    <title lang="pt">NBA: San Antonio Spurs x Dallas Mavericks - Ao Vivo</title>
-    <desc lang="pt">As estrelas do basquete mostram suas habilidades na melhor liga do mundo. Jogos incríveis com emoção garantida.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001573001_epg.jpg" />
-  </programme>
-  <programme channel="ESPN.2.br" start="20261025023000 +0000" stop="20261025033000 +0000">
-    <title lang="pt">Premier League Stories</title>
-    <desc lang="pt">Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000944327_epg.jpg" />
-    <rating system="BR">
-      <value>1</value>
-    </rating>
-  </programme>
-  <programme channel="ESPN.2.br" start="20261025033000 +0000" stop="20261025043000 +0000">
+  <programme channel="ESPN.br" start="20261028110000 +0000" stop="20261028120000 +0000">
     <title lang="pt">Sportscenter</title>
     <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
-    <episode-num system="onscreen">S80 E298</episode-num>
+    <episode-num system="onscreen">S88 E301</episode-num>
+  </programme>
+  <programme channel="ESPN.br" start="20261028120000 +0000" stop="20261028140000 +0000">
+    <title lang="pt">VT - Fleetwood Town x Arsenal</title>
+    <desc lang="pt">A Carabao Cup reúne as 92 equipes das quatro primeiras divisões do futebol inglês. A competição garante ao campeão uma vaga nos playoffs da UEFA Europa Conference League.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572914_epg.jpg" />
+  </programme>
+  <programme channel="ESPN.br" start="20261028140000 +0000" stop="20261028160000 +0000">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
+    <episode-num system="onscreen">S81 E301</episode-num>
+  </programme>
+  <programme channel="ESPN.br" start="20261028160000 +0000" stop="20261028180000 +0000">
+    <title lang="pt">F Show - Ao Vivo</title>
+    <desc lang="pt">Um verdadeiro show sobre futebol. Aqui cabe de tudo. Jornalismo, opinião e entretenimento em um tom acalorado, de certa maneira indignado, apimentado, humor inteligente e aquele sarcasmo inerente ao universo do torcedor.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000116561_epg.jpg" />
+    <episode-num system="onscreen">S83 E301</episode-num>
+  </programme>
+  <programme channel="ESPN.br" start="20261028180000 +0000" stop="20261028195000 +0000">
+    <title lang="pt">Mundo F - Ao Vivo</title>
+    <desc lang="pt">Tudo que gira em torno do universo do futebol internacional. Grandes temas, clubes e personagens ganham holofotes e são tratados com uma linguagem contemporânea e jovem.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000116562_epg.jpg" />
+    <episode-num system="onscreen">S85 E301</episode-num>
+  </programme>
+  <programme channel="ESPN.br" start="20261028195000 +0000" stop="20261028220000 +0000">
+    <title lang="pt">Liverpool x Chelsea - Ao Vivo</title>
+    <desc lang="pt">A Carabao Cup reúne as 92 equipes das quatro primeiras divisões do futebol inglês. A competição garante ao campeão uma vaga nos playoffs da UEFA Europa Conference League.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572848_epg.jpg" />
+  </programme>
+  <programme channel="ESPN.br" start="20261028220000 +0000" stop="20261029003000 +0000">
+    <title lang="pt">Equipe F - Ao Vivo</title>
+    <desc lang="pt">Futebol é com a gente. Somos autoridades no assunto. EQUIPE F traz a marca que chancela o olhar ESPN para o futebol. O fã de esporte está escalado para o time.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000116559_epg.jpg" />
+    <episode-num system="onscreen">S89 E301</episode-num>
+  </programme>
+  <programme channel="ESPN.br" start="20261029003000 +0000" stop="20261029023000 +0000">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
+    <episode-num system="onscreen">S81 E301</episode-num>
+  </programme>
+  <programme channel="ESPN.br" start="20261029023000 +0000" stop="20261029040000 +0000">
+    <title lang="pt">Linha de Passe: Mesa-Redonda - Ao Vivo</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072891_epg.jpg" />
+    <episode-num system="onscreen">S83 E301</episode-num>
+  </programme>
+  <programme channel="ESPN.br" start="20261029040000 +0000" stop="20261029050000 +0000">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
+    <episode-num system="onscreen">S81 E302</episode-num>
   </programme>
   <programme channel="ESPN.2.br" start="20261025043000 +0000" stop="20261025063000 +0000">
     <title lang="pt">VT - Napoli x Roma</title>
@@ -11130,7 +10988,7 @@
   <programme channel="ESPN.2.br" start="20261026190000 +0000" stop="20261026210000 +0000">
     <title lang="pt">ATP 500: Viena - Ao Vivo</title>
     <desc lang="pt">É uma série de torneios profissionais do tênis masculino, logo acima do ATP 250. São 13 torneios disputados ao longo do ano, com a presença dos melhores tenistas do mundo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000597557_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001586461_epg.jpg" />
   </programme>
   <programme channel="ESPN.2.br" start="20261026210000 +0000" stop="20261026220000 +0000">
     <title lang="pt">Mina de Passe</title>
@@ -11141,7 +10999,7 @@
   <programme channel="ESPN.2.br" start="20261026220000 +0000" stop="20261026230000 +0000">
     <title lang="pt">VT - NFL: Cincinnati Bengals x Baltimore Ravens</title>
     <desc lang="pt">Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo. A NFL reúne a elite do futebol americano.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000597557_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572979_epg.jpg" />
   </programme>
   <programme channel="ESPN.2.br" start="20261026230000 +0000" stop="20261027000000 +0000">
     <title lang="pt">ESPN League - Ao Vivo</title>
@@ -11167,7 +11025,7 @@
   <programme channel="ESPN.2.br" start="20261027033000 +0000" stop="20261027043000 +0000">
     <title lang="pt">VT - NFL: Cincinnati Bengals x Baltimore Ravens</title>
     <desc lang="pt">Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo. A NFL reúne a elite do futebol americano.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000597557_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572979_epg.jpg" />
   </programme>
   <programme channel="ESPN.2.br" start="20261027043000 +0000" stop="20261027053000 +0000">
     <title lang="pt">Sportscenter</title>
@@ -11217,17 +11075,17 @@
   <programme channel="ESPN.2.br" start="20261027163000 +0000" stop="20261027173000 +0000">
     <title lang="pt">ATP 500: Viena - Ao Vivo</title>
     <desc lang="pt">É uma série de torneios profissionais do tênis masculino, logo acima do ATP 250. São 13 torneios disputados ao longo do ano, com a presença dos melhores tenistas do mundo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000597557_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001586461_epg.jpg" />
   </programme>
   <programme channel="ESPN.2.br" start="20261027173000 +0000" stop="20261027183000 +0000">
     <title lang="pt">ATP 500: Viena - Ao Vivo</title>
     <desc lang="pt">É uma série de torneios profissionais do tênis masculino, logo acima do ATP 250. São 13 torneios disputados ao longo do ano, com a presença dos melhores tenistas do mundo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000597557_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001586461_epg.jpg" />
   </programme>
   <programme channel="ESPN.2.br" start="20261027183000 +0000" stop="20261027210000 +0000">
     <title lang="pt">ATP 500: Viena - Ao Vivo</title>
     <desc lang="pt">É uma série de torneios profissionais do tênis masculino, logo acima do ATP 250. São 13 torneios disputados ao longo do ano, com a presença dos melhores tenistas do mundo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000597557_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001586461_epg.jpg" />
   </programme>
   <programme channel="ESPN.2.br" start="20261027210000 +0000" stop="20261027220000 +0000">
     <title lang="pt">Pelas Quadras - Ao Vivo</title>
@@ -11254,7 +11112,7 @@
   <programme channel="ESPN.2.br" start="20261028013000 +0000" stop="20261028033000 +0000">
     <title lang="pt">VT - ATP 500: Viena</title>
     <desc lang="pt">É uma série de torneios profissionais do tênis masculino, logo acima do ATP 250. São 13 torneios disputados ao longo do ano, com a presença dos melhores tenistas do mundo.</desc>
-    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000597557_epg.jpg" />
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001586462_epg.jpg" />
   </programme>
   <programme channel="ESPN.2.br" start="20261028033000 +0000" stop="20261028043000 +0000">
     <title lang="pt">Sportscenter</title>
@@ -11266,6 +11124,110 @@
     <title lang="pt">VT - Al-Nassr x Al-Wasl</title>
     <desc lang="pt">É o torneio internacional de maior prestígio da Confederação Asiática de Futebol, com 32 times competindo pela título.</desc>
     <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572816_epg.jpg" />
+  </programme>
+  <programme channel="ESPN.2.br" start="20261028063000 +0000" stop="20261028083000 +0000">
+    <title lang="pt">VT - Borussia Dortmund x Werder Bremen</title>
+    <desc lang="pt">A Copa da Alemanha é o principal torneio mata-mata do futebol alemão. Sessenta e quatro clubes das principais divisões, além de campeões de ligas regionais, disputam o título e uma vaga na UEFA Europa League.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572840_epg.jpg" />
+  </programme>
+  <programme channel="ESPN.2.br" start="20261028083000 +0000" stop="20261028090000 +0000">
+    <title lang="pt">Show da Rodada da Premier League</title>
+    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Premier League, o Campeonato Inglês de futebol. Todos os gols e os principais lances da liga mais assistida ao redor do mundo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000071794_epg.jpg" />
+    <episode-num system="onscreen">S85 E301</episode-num>
+  </programme>
+  <programme channel="ESPN.2.br" start="20261028090000 +0000" stop="20261028100000 +0000">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
+    <episode-num system="onscreen">S86 E301</episode-num>
+  </programme>
+  <programme channel="ESPN.2.br" start="20261028100000 +0000" stop="20261028110000 +0000">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000072890_epg.jpg" />
+    <episode-num system="onscreen">S87 E301</episode-num>
+  </programme>
+  <programme channel="ESPN.2.br" start="20261028110000 +0000" stop="20261028120000 +0000">
+    <title lang="pt">Pelas Quadras</title>
+    <desc lang="pt">Os especialistas da ESPN trazem análise, opinião, reportagens especiais e o melhor do que acontece durante todas as semanas do circuito mundial do tênis nos torneios ATP e WTA.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000101225_epg.jpg" />
+    <episode-num system="onscreen">S88 E301</episode-num>
+  </programme>
+  <programme channel="ESPN.2.br" start="20261028120000 +0000" stop="20261028143000 +0000">
+    <title lang="pt">VT - NFL: Cincinnati Bengals x Baltimore Ravens</title>
+    <desc lang="pt">Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo. A NFL reúne a elite do futebol americano.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572979_epg.jpg" />
+  </programme>
+  <programme channel="ESPN.2.br" start="20261028143000 +0000" stop="20261028163000 +0000">
+    <title lang="pt">VT - Fleetwood Town x Arsenal</title>
+    <desc lang="pt">A Carabao Cup reúne as 92 equipes das quatro primeiras divisões do futebol inglês. A competição garante ao campeão uma vaga nos playoffs da UEFA Europa Conference League.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572914_epg.jpg" />
+  </programme>
+  <programme channel="ESPN.2.br" start="20261028163000 +0000" stop="20261028173000 +0000">
+    <title lang="pt">ATP 500: Viena - Ao Vivo</title>
+    <desc lang="pt">É uma série de torneios profissionais do tênis masculino, logo acima do ATP 250. São 13 torneios disputados ao longo do ano, com a presença dos melhores tenistas do mundo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001586461_epg.jpg" />
+  </programme>
+  <programme channel="ESPN.2.br" start="20261028173000 +0000" stop="20261028183000 +0000">
+    <title lang="pt">ATP 500: Viena - Ao Vivo</title>
+    <desc lang="pt">É uma série de torneios profissionais do tênis masculino, logo acima do ATP 250. São 13 torneios disputados ao longo do ano, com a presença dos melhores tenistas do mundo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001586461_epg.jpg" />
+  </programme>
+  <programme channel="ESPN.2.br" start="20261028183000 +0000" stop="20261028210000 +0000">
+    <title lang="pt">ATP 500: Viena - Ao Vivo</title>
+    <desc lang="pt">É uma série de torneios profissionais do tênis masculino, logo acima do ATP 250. São 13 torneios disputados ao longo do ano, com a presença dos melhores tenistas do mundo.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001586461_epg.jpg" />
+  </programme>
+  <programme channel="ESPN.2.br" start="20261028210000 +0000" stop="20261028211500 +0000">
+    <title lang="pt">Momento ESPN: Tenistas Testam Força dos Forehands</title>
+    <desc lang="pt">Programas especiais com o melhor conteúdo dos canais ESPN. Entrevistas e matérias especiais feitas pelo melhor time do canal que mais entende de esporte.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000086150_epg.jpg" />
+    <episode-num system="onscreen">S18 E301</episode-num>
+    <rating system="BR">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme channel="ESPN.2.br" start="20261028211500 +0000" stop="20261028213000 +0000">
+    <title lang="pt">Momento CBTênis</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001446389_epg.jpg" />
+  </programme>
+  <programme channel="ESPN.2.br" start="20261028213000 +0000" stop="20261028223000 +0000">
+    <title lang="pt">ESPN FIlmes: Saban</title>
+    <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000082278_epg.jpg" />
+    <episode-num system="onscreen">S18 E2</episode-num>
+    <rating system="BR">
+      <value>1</value>
+    </rating>
+  </programme>
+  <programme channel="ESPN.2.br" start="20261028223000 +0000" stop="20261028230000 +0000">
+    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
+    <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/00000000073469_epg.jpg" />
+    <episode-num system="onscreen">S89 E301</episode-num>
+  </programme>
+  <programme channel="ESPN.2.br" start="20261028230000 +0000" stop="20261028231200 +0000">
+    <title lang="pt">NBA - Ao Vivo</title>
+    <desc lang="pt">Uma prévia da próxima ação da NBA, destacando os jogadores para assistir e as últimas notícias da equipe.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0000280654_epg.jpg" />
+    <episode-num system="onscreen">S20 E301</episode-num>
+  </programme>
+  <programme channel="ESPN.2.br" start="20261028231200 +0000" stop="20261029013500 +0000">
+    <title lang="pt">NBA: Philadelphia 76ers x Indiana Pacers - Ao Vivo</title>
+    <desc lang="pt">As estrelas do basquete mostram suas habilidades na melhor liga do mundo. Jogos incríveis com emoção garantida.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001573000_epg.jpg" />
+  </programme>
+  <programme channel="ESPN.2.br" start="20261029013500 +0000" stop="20261029040500 +0000">
+    <title lang="pt">NBA: Oklahoma City Thunder x Dallas Mavericks - Ao Vivo</title>
+    <desc lang="pt">As estrelas do basquete mostram suas habilidades na melhor liga do mundo. Jogos incríveis com emoção garantida.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572999_epg.jpg" />
+  </programme>
+  <programme channel="ESPN.2.br" start="20261029040500 +0000" stop="20261029060000 +0000">
+    <title lang="pt">VT - Roma x Cagliari</title>
+    <desc lang="pt">Histórias de heróis, anjos caídos e semideuses. Partidas lendárias disputadas até o último minuto em busca do título de melhor clube do país.</desc>
+    <icon src="https://fh1i2j3k4l5mdgr.clarocdn.com.br/images_epg/420_236/0001572942_epg.jpg" />
   </programme>
   <channel id="RTL.de">
     <display-name lang="de">RTL</display-name>
